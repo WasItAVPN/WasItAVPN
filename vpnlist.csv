@@ -42,6 +42,7 @@ IP,PROVIDER,DOMAIN
 103.1.212.187,NORDVPN,au714.nordvpn.com
 103.1.212.19,NORDVPN,au700.nordvpn.com
 103.1.212.195,NORDVPN,au713.nordvpn.com
+103.1.212.243,WINDSCRIBE,au.windscribe.com
 103.1.212.27,NORDVPN,au701.nordvpn.com
 103.1.212.35,NORDVPN,au702.nordvpn.com
 103.1.212.43,NORDVPN,au703.nordvpn.com
@@ -53,9 +54,13 @@ IP,PROVIDER,DOMAIN
 103.1.212.99,NORDVPN,au530.nordvpn.com
 103.1.213.139,NORDVPN,au711.nordvpn.com
 103.1.213.163,NORDVPN,au712.nordvpn.com
+103.1.213.211,WINDSCRIBE,au.windscribe.com
+103.10.197.99,WINDSCRIBE,hk.windscribe.com
+103.103.0.118,WINDSCRIBE,ph.windscribe.com
 103.106.250.14,NORDVPN,my28.nordvpn.com
 103.106.250.17,NORDVPN,my29.nordvpn.com
 103.106.250.28,NORDVPN,my35.nordvpn.com
+103.106.250.31,WINDSCRIBE,my.windscribe.com
 103.106.250.39,NORDVPN,my34.nordvpn.com
 103.106.250.42,NORDVPN,my36.nordvpn.com
 103.106.250.55,NORDVPN,my30.nordvpn.com
@@ -155,6 +160,7 @@ IP,PROVIDER,DOMAIN
 103.108.117.118,SURFSHARK,in-chn.prod.surfshark.com
 103.108.117.149,SURFSHARK,in-chn.prod.surfshark.com
 103.108.117.151,SURFSHARK,in-chn.prod.surfshark.com
+103.108.92.83,WINDSCRIBE,au.windscribe.com
 103.108.94.148,PUREVPN,nz2-tcp.ptoserver.com
 103.108.94.149,PUREVPN,nz2-tcp.ptoserver.com
 103.108.94.150,PUREVPN,nz2-udp.ptoserver.com
@@ -165,6 +171,7 @@ IP,PROVIDER,DOMAIN
 103.108.94.155,PUREVPN,nz2-udp.ptoserver.com
 103.108.94.156,PUREVPN,nz2-udp.ptoserver.com
 103.108.94.157,PUREVPN,nz2-udp.ptoserver.com
+103.108.94.163,WINDSCRIBE,nz.windscribe.com
 103.108.94.19,TUNNELBEAR,nz.lazerpenguin.com
 103.108.94.20,TUNNELBEAR,nz.lazerpenguin.com
 103.108.94.21,TUNNELBEAR,nz.lazerpenguin.com
@@ -327,6 +334,7 @@ IP,PROVIDER,DOMAIN
 103.2.198.82,PIA,aus-melbourne.privacy.network
 103.2.198.91,PIA,aus-melbourne.privacy.network
 103.2.198.92,PIA,aus-melbourne.privacy.network
+103.205.140.227,WINDSCRIBE,in.windscribe.com
 103.205.143.114,ANONINE,in.anonine.net
 103.208.220.195,PROTONVPN,jp-free-02.protonvpn.com
 103.208.220.196,PROTONVPN,jp-free-02.protonvpn.com
@@ -395,6 +403,7 @@ IP,PROVIDER,DOMAIN
 103.209.252.98,IPVANISH,mel-a06.ipvanish.com
 103.209.252.99,IPVANISH,mel-a06.ipvanish.com
 103.209.79.4,PUREVPN,pr1.pointtoserver.com
+103.212.223.3,WINDSCRIBE,kr.windscribe.com
 103.212.224.195,NORDVPN,au653.nordvpn.com
 103.212.224.203,NORDVPN,au654.nordvpn.com
 103.212.224.211,NORDVPN,au655.nordvpn.com
@@ -411,6 +420,7 @@ IP,PROVIDER,DOMAIN
 103.212.227.171,NORDVPN,au607.nordvpn.com
 103.212.227.179,NORDVPN,au576.nordvpn.com
 103.212.227.187,NORDVPN,au652.nordvpn.com
+103.212.69.232,WINDSCRIBE,my.windscribe.com
 103.212.70.207,NORDVPN,my32.nordvpn.com
 103.212.70.235,NORDVPN,my33.nordvpn.com
 103.212.70.92,NORDVPN,my25.nordvpn.com
@@ -483,6 +493,7 @@ IP,PROVIDER,DOMAIN
 103.4.16.240,FROSTVPN,gw2.syd1.frostvpn.com
 103.4.18.248,FROSTVPN,gw2.mel1.frostvpn.com
 103.4.29.216,NORDVPN,tw46.nordvpn.com
+103.4.29.77,WINDSCRIBE,tw.windscribe.com
 103.4.30.117,NORDVPN,tw151.nordvpn.com
 103.4.30.123,NORDVPN,tw-hk4.nordvpn.com
 103.4.30.170,NORDVPN,tw147.nordvpn.com
@@ -513,6 +524,8 @@ IP,PROVIDER,DOMAIN
 103.6.87.177,FROSTVPN,gw1.maa1.frostvpn.com
 103.60.9.27,NORDVPN,id25.nordvpn.com
 103.60.9.75,NORDVPN,id24.nordvpn.com
+103.62.48.224,WINDSCRIBE,sg.windscribe.com
+103.62.49.113,WINDSCRIBE,nz.windscribe.com
 103.62.49.193,NORDVPN,nz68.nordvpn.com
 103.62.49.198,NORDVPN,nz69.nordvpn.com
 103.62.49.203,NORDVPN,nz70.nordvpn.com
@@ -523,15 +536,21 @@ IP,PROVIDER,DOMAIN
 103.62.49.228,NORDVPN,nz83.nordvpn.com
 103.62.49.233,NORDVPN,nz84.nordvpn.com
 103.62.49.238,NORDVPN,nz85.nordvpn.com
+103.62.50.208,WINDSCRIBE,au.windscribe.com
 103.73.189.219,SURFSHARK,in-idr.prod.surfshark.com
 103.73.189.221,SURFSHARK,in-idr.prod.surfshark.com
 103.76.164.19,HIDEMYASS,nz.hma.rocks
 103.76.164.3,HIDEMYASS,nz.hma.rocks
+103.77.233.67,WINDSCRIBE,au.windscribe.com
+103.77.234.211,WINDSCRIBE,au.windscribe.com
 103.9.76.189,NORDVPN,vn28.nordvpn.com
 103.9.76.192,NORDVPN,vn29.nordvpn.com
+103.9.76.197,WINDSCRIBE,vn.windscribe.com
 103.9.76.205,NORDVPN,vn30.nordvpn.com
 103.9.76.219,NORDVPN,vn31.nordvpn.com
 103.9.76.222,NORDVPN,vn32.nordvpn.com
+103.9.79.186,WINDSCRIBE,vn.windscribe.com
+103.9.79.219,WINDSCRIBE,vn.windscribe.com
 103.94.27.101,SURFSHARK,in-chn.prod.surfshark.com
 103.94.27.115,SURFSHARK,in-chn.prod.surfshark.com
 103.94.27.117,SURFSHARK,in-chn.prod.surfshark.com
@@ -587,6 +606,10 @@ IP,PROVIDER,DOMAIN
 104.129.29.58,TORGUARD,chi.central.usa.torguardvpnaccess.com
 104.129.29.74,TORGUARD,chi.central.usa.torguardvpnaccess.com
 104.129.29.82,TORGUARD,chi.central.usa.torguardvpnaccess.com
+104.129.3.163,WINDSCRIBE,us-west.windscribe.com
+104.129.3.67,WINDSCRIBE,us-west.windscribe.com
+104.129.56.131,WINDSCRIBE,us-west.windscribe.com
+104.129.56.67,WINDSCRIBE,us-west.windscribe.com
 104.131.107.213,TUNNELBEAR,us.lazerpenguin.com
 104.131.111.18,TUNNELBEAR,us.lazerpenguin.com
 104.131.116.57,TUNNELBEAR,us.lazerpenguin.com
@@ -754,6 +777,7 @@ IP,PROVIDER,DOMAIN
 104.149.29.226,NORDVPN,us2922.nordvpn.com
 104.149.35.146,NORDVPN,us2852.nordvpn.com
 104.149.68.66,NORDVPN,us2923.nordvpn.com
+104.152.222.33,WINDSCRIBE,us-west.windscribe.com
 104.152.222.6,CRYPTOSTORM,balancer.cstorm.is
 104.152.223.32,CRYPTOSTORM,maine.cstorm.is
 104.152.223.33,CRYPTOSTORM,maine.cstorm.is
@@ -790,6 +814,9 @@ IP,PROVIDER,DOMAIN
 104.153.86.148,PROTONVPN,us-va-08.protonvpn.com
 104.156.233.168,TUNNELBEAR,au.lazerpenguin.com
 104.156.233.172,TUNNELBEAR,au.lazerpenguin.com
+104.168.34.147,WINDSCRIBE,us-east.windscribe.com
+104.20.26.217,WINDSCRIBE,chn.windscribe.com
+104.20.27.217,WINDSCRIBE,chn.windscribe.com
 104.200.129.12,NORDVPN,us8155.nordvpn.com
 104.200.129.15,NORDVPN,us8156.nordvpn.com
 104.200.129.18,NORDVPN,us8157.nordvpn.com
@@ -1018,6 +1045,8 @@ IP,PROVIDER,DOMAIN
 104.217.255.184,PUREVPN,ustx2-udp.ptoserver.com
 104.217.255.185,PUREVPN,ustx2-udp.ptoserver.com
 104.217.255.186,PUREVPN,ustx2-udp.ptoserver.com
+104.218.60.111,WINDSCRIBE,wf-ca.windscribe.com
+104.223.127.195,WINDSCRIBE,us-east.windscribe.com
 104.223.91.154,TORGUARD,atl.east.usa.torguardvpnaccess.com
 104.223.91.202,TORGUARD,atl.east.usa.torguardvpnaccess.com
 104.223.91.218,TORGUARD,atl.east.usa.torguardvpnaccess.com
@@ -1060,6 +1089,7 @@ IP,PROVIDER,DOMAIN
 104.223.95.34,TORGUARD,atl.east.usa.torguardvpnaccess.com
 104.223.95.42,TORGUARD,atl.east.usa.torguardvpnaccess.com
 104.223.95.50,TORGUARD,atl.east.usa.torguardvpnaccess.com
+104.227.235.129,WINDSCRIBE,ca.windscribe.com
 104.227.248.99,PUREVPN,nl-ikev.ptoserver.com
 104.227.252.66,PUREVPN,nl2-ovpn-tcp.pointtoserver.com
 104.237.193.147,NORDVPN,us2934.nordvpn.com
@@ -1303,6 +1333,7 @@ IP,PROVIDER,DOMAIN
 104.244.210.133,SURFSHARK,us-dtw.prod.surfshark.com
 104.244.210.139,SURFSHARK,us-dtw.prod.surfshark.com
 104.244.210.141,SURFSHARK,us-dtw.prod.surfshark.com
+104.244.210.51,WINDSCRIBE,us-east.windscribe.com
 104.244.211.139,SURFSHARK,us-dtw.prod.surfshark.com
 104.244.211.141,SURFSHARK,us-dtw.prod.surfshark.com
 104.244.211.171,SURFSHARK,us-dtw.prod.surfshark.com
@@ -1401,6 +1432,7 @@ IP,PROVIDER,DOMAIN
 104.254.90.234,AIRVPN,chort.airservers.org
 104.254.90.242,AIRVPN,enif.airservers.org
 104.254.90.250,AIRVPN,gorgonea.airservers.org
+104.254.92.11,WINDSCRIBE,ca.windscribe.com
 104.254.92.174,HIDEMYASS,ca.hma.rocks
 104.254.92.19,HIDEMYASS,ca.hma.rocks
 104.254.92.51,HIDEMYASS,ca.hma.rocks
@@ -1408,6 +1440,8 @@ IP,PROVIDER,DOMAIN
 104.254.92.60,PROTONVPN,ca-02.protonvpn.com
 104.254.92.61,PROTONVPN,ca-03.protonvpn.com
 104.254.92.62,PROTONVPN,ca-04.protonvpn.com
+104.254.92.91,WINDSCRIBE,ca.windscribe.com
+104.254.92.99,WINDSCRIBE,wf-ca.windscribe.com
 104.254.95.107,NORDVPN,ca1235.nordvpn.com
 104.254.95.147,HIDEMYASS,ca.hma.rocks
 104.254.95.211,NORDVPN,ca1236.nordvpn.com
@@ -1450,6 +1484,7 @@ IP,PROVIDER,DOMAIN
 104.37.7.3,PUREVPN,in-ikev.ptoserver.com
 106.186.23.145,FROSTVPN,gw1.nrt2.frostvpn.com
 107.150.28.42,TORGUARD,chi.central.usa.torguardvpnaccess.com
+107.150.29.131,WINDSCRIBE,us-east.windscribe.com
 107.150.39.43,SURFSHARK,us-kan.prod.surfshark.com
 107.150.39.45,SURFSHARK,us-kan.prod.surfshark.com
 107.150.95.11,NORDVPN,tr36.nordvpn.com
@@ -1920,6 +1955,7 @@ IP,PROVIDER,DOMAIN
 109.169.34.23,HIDEMYASS,gb.hma.rocks
 109.169.34.42,HIDEMYASS,gb.hma.rocks
 109.169.34.62,HIDEMYASS,gb.hma.rocks
+109.201.130.2,WINDSCRIBE,nl.windscribe.com
 109.201.133.22,PROTONVPN,nl-free-01.protonvpn.com
 109.201.133.24,PROTONVPN,nl-free-01.protonvpn.com
 109.201.133.26,PROTONVPN,nl-free-01.protonvpn.com
@@ -1943,6 +1979,7 @@ IP,PROVIDER,DOMAIN
 109.202.111.225,NORDVPN,nl860.nordvpn.com
 109.202.111.230,NORDVPN,nl861.nordvpn.com
 109.202.111.235,NORDVPN,nl862.nordvpn.com
+109.230.215.86,NORDVPN,uk2059.nordvpn.com
 109.232.227.132,AIRVPN,chara.airservers.org
 109.232.227.137,AIRVPN,matar.airservers.org
 109.232.227.148,AIRVPN,phaet.airservers.org
@@ -1983,6 +2020,8 @@ IP,PROVIDER,DOMAIN
 113.29.230.200,PROTONVPN,kr-10.protonvpn.com
 113.29.230.201,PROTONVPN,kr-11.protonvpn.com
 113.29.230.202,PROTONVPN,kr-12.protonvpn.com
+116.206.228.67,WINDSCRIBE,au.windscribe.com
+116.206.229.131,WINDSCRIBE,au.windscribe.com
 116.206.230.10,PUREVPN,au2-me-udp.ptoserver.com
 116.206.230.11,PUREVPN,au2-me-udp.ptoserver.com
 116.206.230.12,PUREVPN,au2-me-udp.ptoserver.com
@@ -2002,6 +2041,7 @@ IP,PROVIDER,DOMAIN
 116.206.231.35,NORDVPN,au520.nordvpn.com
 116.206.231.51,NORDVPN,au522.nordvpn.com
 116.90.72.107,NORDVPN,au682.nordvpn.com
+116.90.72.243,WINDSCRIBE,au.windscribe.com
 116.90.72.35,NORDVPN,au637.nordvpn.com
 116.90.72.43,NORDVPN,au638.nordvpn.com
 116.90.72.51,NORDVPN,au639.nordvpn.com
@@ -2197,6 +2237,7 @@ IP,PROVIDER,DOMAIN
 128.90.96.62,VYPRVPN,tr1.vpn.goldenfrog.com
 128.90.96.64,VYPRVPN,ua1.vpn.goldenfrog.com
 129.227.119.84,PUREVPN,vlap-ph2-ovpn-tcp.pointtoserver.com
+129.232.167.211,WINDSCRIBE,za.windscribe.com
 131.100.2.121,HIDEMYASS,hi.us.hma.rocks
 131.100.2.51,HIDEMYASS,hi.us.hma.rocks
 131.100.2.99,HIDEMYASS,hi.us.hma.rocks
@@ -2345,6 +2386,7 @@ IP,PROVIDER,DOMAIN
 134.209.64.44,TUNNELBEAR,us.lazerpenguin.com
 134.209.80.37,TUNNELBEAR,nl.lazerpenguin.com
 134.209.83.158,TUNNELBEAR,nl.lazerpenguin.com
+134.90.149.147,WINDSCRIBE,dk.windscribe.com
 137.59.253.51,PROTONVPN,au-21.protonvpn.com
 137.59.253.52,PROTONVPN,au-22.protonvpn.com
 137.59.253.53,PROTONVPN,au-23.protonvpn.com
@@ -2357,6 +2399,7 @@ IP,PROVIDER,DOMAIN
 137.59.52.107,SURFSHARK,in-idr.prod.surfshark.com
 137.59.52.109,SURFSHARK,in-idr.prod.surfshark.com
 137.63.71.50,AIRVPN,tegmen.airservers.org
+138.121.203.203,WINDSCRIBE,co.windscribe.com
 138.122.233.11,NAMECHEAP,gig-a01.vpn.wlvpn.com
 138.122.233.13,NAMECHEAP,gig-a02.vpn.wlvpn.com
 138.122.233.15,NAMECHEAP,gig-a03.vpn.wlvpn.com
@@ -2402,6 +2445,7 @@ IP,PROVIDER,DOMAIN
 138.122.234.254,IPVANISH,gru-a03.ipvanish.com
 138.122.234.31,NAMECHEAP,gru-a12.vpn.wlvpn.com
 138.122.234.9,NAMECHEAP,gru-a03.vpn.wlvpn.com
+138.186.141.155,WINDSCRIBE,co.windscribe.com
 138.197.132.28,TUNNELBEAR,ca.lazerpenguin.com
 138.197.134.237,TUNNELBEAR,ca.lazerpenguin.com
 138.197.147.33,TUNNELBEAR,ca.lazerpenguin.com
@@ -2674,6 +2718,7 @@ IP,PROVIDER,DOMAIN
 141.98.103.171,NORDVPN,rs46.nordvpn.com
 141.98.103.179,NORDVPN,rs47.nordvpn.com
 141.98.103.187,NORDVPN,rs52.nordvpn.com
+141.98.103.19,WINDSCRIBE,rs.windscribe.com
 141.98.103.195,NORDVPN,rs53.nordvpn.com
 141.98.103.203,NORDVPN,rs54.nordvpn.com
 141.98.103.211,NORDVPN,rs55.nordvpn.com
@@ -2685,6 +2730,7 @@ IP,PROVIDER,DOMAIN
 141.98.103.83,NORDVPN,rs61.nordvpn.com
 141.98.103.91,NORDVPN,rs62.nordvpn.com
 141.98.103.99,NORDVPN,rs63.nordvpn.com
+141.98.215.211,WINDSCRIBE,ph.windscribe.com
 141.98.216.227,NORDVPN,us5579.nordvpn.com
 142.202.48.210,ANONINE,us-ny.anonine.net
 142.202.48.211,ANONINE,us-ny.anonine.net
@@ -3398,6 +3444,7 @@ IP,PROVIDER,DOMAIN
 143.244.60.169,SURFSHARK,us-chi.prod.surfshark.com
 143.244.60.172,SURFSHARK,us-chi.prod.surfshark.com
 143.244.60.174,SURFSHARK,us-chi.prod.surfshark.com
+143.255.57.67,WINDSCRIBE,mx.windscribe.com
 143.255.58.36,NAMECHEAP,gdl-c08.vpn.wlvpn.com
 143.255.58.38,NAMECHEAP,gdl-c09.vpn.wlvpn.com
 143.255.58.39,IPVANISH,gdl-c08.ipvanish.com
@@ -3406,6 +3453,8 @@ IP,PROVIDER,DOMAIN
 143.255.58.54,NAMECHEAP,gdl-c12.vpn.wlvpn.com
 143.255.58.55,IPVANISH,gdl-c11.ipvanish.com
 143.255.58.57,IPVANISH,gdl-c12.ipvanish.com
+144.168.163.160,WINDSCRIBE,ca.windscribe.com
+144.168.163.193,WINDSCRIBE,ca.windscribe.com
 144.168.163.34,PUREVPN,ca-ikev.ptoserver.com
 144.48.36.11,NORDVPN,au553.nordvpn.com
 144.48.36.19,NORDVPN,au578.nordvpn.com
@@ -3778,6 +3827,7 @@ IP,PROVIDER,DOMAIN
 154.21.21.52,PIA,us-atlanta.privacy.network
 154.21.21.61,PIA,us-atlanta.privacy.network
 154.21.21.62,PIA,us-atlanta.privacy.network
+154.21.21.71,PIA,us-atlanta.privacy.network
 154.21.21.72,PIA,us-atlanta.privacy.network
 154.21.21.81,PIA,us-atlanta.privacy.network
 154.21.21.82,PIA,us-atlanta.privacy.network
@@ -3882,6 +3932,7 @@ IP,PROVIDER,DOMAIN
 154.21.22.221,PIA,us-atlanta.privacy.network
 154.21.22.222,PIA,us-atlanta.privacy.network
 154.21.22.231,PIA,us-atlanta.privacy.network
+154.21.22.232,PIA,us-atlanta.privacy.network
 154.21.22.241,PIA,us-atlanta.privacy.network
 154.21.22.242,PIA,us-atlanta.privacy.network
 154.21.22.251,PIA,us-atlanta.privacy.network
@@ -4557,8 +4608,10 @@ IP,PROVIDER,DOMAIN
 156.146.43.206,NORDVPN,us6248.nordvpn.com
 156.146.43.22,PIA,us-florida.privacy.network
 156.146.43.41,PIA,us-florida.privacy.network
+156.146.43.42,PIA,us-florida.privacy.network
 156.146.43.61,PIA,us-florida.privacy.network
 156.146.43.71,PIA,us-florida.privacy.network
+156.146.43.72,PIA,us-florida.privacy.network
 156.146.43.81,PIA,us-florida.privacy.network
 156.146.43.82,PIA,us-florida.privacy.network
 156.146.43.91,PIA,us-florida.privacy.network
@@ -4681,11 +4734,13 @@ IP,PROVIDER,DOMAIN
 156.146.55.82,PIA,us-newyorkcity.privacy.network
 156.146.55.91,PIA,us-newyorkcity.privacy.network
 156.146.55.92,PIA,us-newyorkcity.privacy.network
+156.146.56.111,WINDSCRIBE,sg.windscribe.com
 156.146.56.130,SURFSHARK,sg-sng.prod.surfshark.com
 156.146.56.132,SURFSHARK,sg-sng.prod.surfshark.com
 156.146.56.135,SURFSHARK,sg-sng.prod.surfshark.com
 156.146.56.137,SURFSHARK,sg-sng.prod.surfshark.com
 156.146.56.193,PIA,sg.privateinternetaccess.com
+156.146.56.98,WINDSCRIBE,sg.windscribe.com
 156.146.57.101,PIA,sg.privacy.network
 156.146.57.111,PIA,sg.privacy.network
 156.146.57.112,PIA,sg.privacy.network
@@ -4824,6 +4879,7 @@ IP,PROVIDER,DOMAIN
 156.146.63.82,PIA,france.privacy.network
 156.146.63.91,PIA,france.privacy.network
 156.96.151.131,AIRVPN,metallah.airservers.org
+156.96.59.102,WINDSCRIBE,us-east.windscribe.com
 157.230.183.234,TUNNELBEAR,us.lazerpenguin.com
 157.230.183.249,TUNNELBEAR,us.lazerpenguin.com
 157.230.183.251,TUNNELBEAR,us.lazerpenguin.com
@@ -4878,6 +4934,7 @@ IP,PROVIDER,DOMAIN
 157.245.71.7,TUNNELBEAR,nl.lazerpenguin.com
 157.245.73.252,TUNNELBEAR,nl.lazerpenguin.com
 157.245.76.42,TUNNELBEAR,nl.lazerpenguin.com
+157.97.132.43,WINDSCRIBE,cy.windscribe.com
 158.255.208.240,FROSTVPN,gw1.hkg2.frostvpn.com
 158.255.212.60,FROSTVPN,gw1.grz1.frostvpn.com
 159.148.186.13,AIRVPN,meissa.airservers.org
@@ -4935,6 +4992,7 @@ IP,PROVIDER,DOMAIN
 159.89.7.251,TUNNELBEAR,de.lazerpenguin.com
 159.89.8.202,TUNNELBEAR,de.lazerpenguin.com
 159.89.8.205,TUNNELBEAR,de.lazerpenguin.com
+160.116.0.27,WINDSCRIBE,il.windscribe.com
 160.202.162.199,ANONINE,sk.anonine.net
 160.202.162.205,ANONINE,sk.anonine.net
 160.202.162.206,ANONINE,sk.anonine.net
@@ -5109,6 +5167,7 @@ IP,PROVIDER,DOMAIN
 162.221.207.88,CRYPTOSTORM,vancouver.cstorm.is
 162.221.207.89,CRYPTOSTORM,vancouver.cstorm.is
 162.221.207.90,CRYPTOSTORM,vancouver.cstorm.is
+162.222.195.67,WINDSCRIBE,us-east.windscribe.com
 162.243.1.60,TUNNELBEAR,us.lazerpenguin.com
 162.243.11.185,TUNNELBEAR,us.lazerpenguin.com
 162.243.11.250,TUNNELBEAR,us.lazerpenguin.com
@@ -5371,6 +5430,7 @@ IP,PROVIDER,DOMAIN
 165.231.253.19,NORDVPN,in78.nordvpn.com
 165.231.253.195,NORDVPN,in93.nordvpn.com
 165.231.253.203,NORDVPN,in92.nordvpn.com
+165.231.253.211,WINDSCRIBE,in.windscribe.com
 165.231.253.27,NORDVPN,in79.nordvpn.com
 165.231.253.3,NORDVPN,in77.nordvpn.com
 165.231.253.35,NORDVPN,in80.nordvpn.com
@@ -5422,6 +5482,7 @@ IP,PROVIDER,DOMAIN
 165.73.242.58,NORDVPN,za78.nordvpn.com
 165.73.242.82,NORDVPN,za79.nordvpn.com
 165.73.248.243,NORDVPN,za108.nordvpn.com
+165.73.248.91,WINDSCRIBE,za.windscribe.com
 167.114.5.0,ANONINE,ca-east.anonine.net
 167.114.5.1,ANONINE,ca-east.anonine.net
 167.114.5.2,ANONINE,ca-east.anonine.net
@@ -5432,7 +5493,9 @@ IP,PROVIDER,DOMAIN
 167.114.5.7,ANONINE,ca-east.anonine.net
 167.114.5.8,ANONINE,ca-east.anonine.net
 167.114.84.135,CRYPTOSTORM,balancer.cstorm.is
+167.160.167.195,WINDSCRIBE,us-east.windscribe.com
 167.160.172.106,TORGUARD,chi.central.usa.torguardvpnaccess.com
+167.160.172.3,WINDSCRIBE,us-east.windscribe.com
 167.160.172.82,TORGUARD,chi.central.usa.torguardvpnaccess.com
 167.160.172.90,TORGUARD,chi.central.usa.torguardvpnaccess.com
 167.160.172.98,TORGUARD,chi.central.usa.torguardvpnaccess.com
@@ -5475,6 +5538,8 @@ IP,PROVIDER,DOMAIN
 167.172.49.152,TUNNELBEAR,uk.lazerpenguin.com
 167.172.55.8,TUNNELBEAR,uk.lazerpenguin.com
 167.172.58.169,TUNNELBEAR,uk.lazerpenguin.com
+167.250.6.121,WINDSCRIBE,ar.windscribe.com
+167.250.6.138,WINDSCRIBE,ar.windscribe.com
 167.71.100.89,TUNNELBEAR,us.lazerpenguin.com
 167.71.104.202,TUNNELBEAR,us.lazerpenguin.com
 167.71.123.139,TUNNELBEAR,us.lazerpenguin.com
@@ -5517,6 +5582,8 @@ IP,PROVIDER,DOMAIN
 167.88.10.91,NORDVPN,us6424.nordvpn.com
 167.88.112.78,FROSTVPN,gw1.sea2.frostvpn.com
 167.88.15.3,NORDVPN,us6427.nordvpn.com
+167.88.60.227,WINDSCRIBE,us-west.windscribe.com
+167.88.60.243,WINDSCRIBE,us-west.windscribe.com
 167.88.63.194,ANONINE,us-ga.anonine.net
 167.88.63.195,ANONINE,us-ga.anonine.net
 167.88.63.196,ANONINE,us-ga.anonine.net
@@ -5546,7 +5613,9 @@ IP,PROVIDER,DOMAIN
 167.99.64.32,TORGUARD,singp.torguardvpnaccess.com
 169.38.66.20,PUREVPN,in2-tcp.ptoserver.com
 169.38.66.21,PUREVPN,in2-tcp.ptoserver.com
+169.38.68.188,WINDSCRIBE,in.windscribe.com
 169.38.69.12,PUREVPN,in2-udp.ptoserver.com
+169.38.72.14,WINDSCRIBE,in.windscribe.com
 169.57.0.201,TUNNELBEAR,mx.lazerpenguin.com
 169.57.0.245,TUNNELBEAR,mx.lazerpenguin.com
 169.57.16.237,PUREVPN,mx2-tcp.ptoserver.com
@@ -5736,10 +5805,14 @@ IP,PROVIDER,DOMAIN
 172.241.114.87,SURFSHARK,us-dal.prod.surfshark.com
 172.241.114.89,SURFSHARK,us-dal.prod.surfshark.com
 172.241.166.147,CRYPTOSTORM,newyork.cstorm.is
+172.241.214.202,WINDSCRIBE,us-west.windscribe.com
+172.241.250.131,WINDSCRIBE,us-west.windscribe.com
 172.245.220.35,FROSTVPN,gw1.lax1.frostvpn.com
+172.255.125.141,WINDSCRIBE,us-west.windscribe.com
 172.255.125.149,NORDVPN,us6511.nordvpn.com
 172.255.125.153,NORDVPN,us6512.nordvpn.com
 172.255.125.157,NORDVPN,us6513.nordvpn.com
+172.67.17.175,WINDSCRIBE,chn.windscribe.com
 172.83.40.102,NORDVPN,ca1422.nordvpn.com
 172.83.40.105,NORDVPN,ca1423.nordvpn.com
 172.83.40.108,NORDVPN,ca1424.nordvpn.com
@@ -6387,6 +6460,7 @@ IP,PROVIDER,DOMAIN
 173.195.15.83,NAMECHEAP,nyc-a92.vpn.wlvpn.com
 173.195.15.85,NAMECHEAP,nyc-a93.vpn.wlvpn.com
 173.195.15.9,NAMECHEAP,nyc-a79.vpn.wlvpn.com
+173.195.15.93,NAMECHEAP,nyc-a97.vpn.wlvpn.com
 173.195.15.95,NAMECHEAP,nyc-a98.vpn.wlvpn.com
 173.205.176.147,TUNNELBEAR,us.lazerpenguin.com
 173.205.176.148,TUNNELBEAR,us.lazerpenguin.com
@@ -6418,6 +6492,7 @@ IP,PROVIDER,DOMAIN
 173.205.176.217,TUNNELBEAR,us.lazerpenguin.com
 173.208.202.59,SURFSHARK,us-kan.prod.surfshark.com
 173.208.202.61,SURFSHARK,us-kan.prod.surfshark.com
+173.208.45.33,WINDSCRIBE,us-east.windscribe.com
 173.208.77.65,CRYPTOSTORM,balancer.cstorm.is
 173.208.77.66,CRYPTOSTORM,la.cstorm.is
 173.208.77.67,CRYPTOSTORM,la.cstorm.is
@@ -7203,6 +7278,7 @@ IP,PROVIDER,DOMAIN
 173.44.36.242,TORGUARD,fl.east.usa.torguardvpnaccess.com
 173.44.36.50,TORGUARD,fl.east.usa.torguardvpnaccess.com
 173.44.36.58,TORGUARD,fl.east.usa.torguardvpnaccess.com
+173.44.36.67,WINDSCRIBE,us-east.windscribe.com
 173.44.37.106,TORGUARD,fl.east.usa.torguardvpnaccess.com
 173.44.37.114,TORGUARD,fl.east.usa.torguardvpnaccess.com
 173.44.37.122,TORGUARD,fl.east.usa.torguardvpnaccess.com
@@ -7527,6 +7603,7 @@ IP,PROVIDER,DOMAIN
 176.227.241.31,SURFSHARK,cr-sjn.prod.surfshark.com
 176.227.241.33,SURFSHARK,cr-sjn.prod.surfshark.com
 176.227.241.35,SURFSHARK,cr-sjn.prod.surfshark.com
+176.53.113.163,WINDSCRIBE,tr.windscribe.com
 176.53.23.251,NORDVPN,tr35.nordvpn.com
 176.58.120.179,FROSTVPN,gw1.lhr2.frostvpn.com
 176.61.146.106,SURFSHARK,pt-lou.prod.surfshark.com
@@ -7637,7 +7714,9 @@ IP,PROVIDER,DOMAIN
 176.67.86.7,NAMECHEAP,waw-a02.vpn.wlvpn.com
 176.67.86.9,NAMECHEAP,waw-a03.vpn.wlvpn.com
 177.234.151.162,FROSTVPN,gw1.gru3.frostvpn.com
+177.54.148.247,WINDSCRIBE,br.windscribe.com
 177.54.151.174,NORDVPN,br53.nordvpn.com
+177.54.157.178,WINDSCRIBE,br.windscribe.com
 177.54.158.25,ANONINE,br.anonine.net
 177.54.158.26,ANONINE,br.anonine.net
 177.54.158.27,ANONINE,br.anonine.net
@@ -7647,6 +7726,7 @@ IP,PROVIDER,DOMAIN
 177.54.158.48,ANONINE,br.anonine.net
 177.54.158.49,ANONINE,br.anonine.net
 177.54.158.50,ANONINE,br.anonine.net
+177.67.80.59,WINDSCRIBE,br.windscribe.com
 178.128.160.107,TUNNELBEAR,uk.lazerpenguin.com
 178.128.195.99,TUNNELBEAR,de.lazerpenguin.com
 178.128.201.126,TUNNELBEAR,de.lazerpenguin.com
@@ -7716,6 +7796,7 @@ IP,PROVIDER,DOMAIN
 178.175.139.212,CRYPTOSTORM,moldova.cstorm.is
 178.175.139.213,CRYPTOSTORM,balancer.cstorm.is
 178.175.139.214,CRYPTOSTORM,moldova.cstorm.is
+178.175.144.123,WINDSCRIBE,md.windscribe.com
 178.21.169.244,PUREVPN,gr2-tcp.ptoserver.com
 178.21.169.245,PUREVPN,gr2-tcp.ptoserver.com
 178.238.231.49,SURFSHARK,de-muc.prod.surfshark.com
@@ -7750,6 +7831,7 @@ IP,PROVIDER,DOMAIN
 178.239.168.189,NORDVPN,uk1956.nordvpn.com
 178.239.168.223,NORDVPN,uk883.nordvpn.com
 178.239.168.237,NORDVPN,uk1881.nordvpn.com
+178.239.168.249,NORDVPN,uk1880.nordvpn.com
 178.239.169.3,NORDVPN,uk884.nordvpn.com
 178.239.169.4,NORDVPN,uk885.nordvpn.com
 178.239.172.111,SURFSHARK,uk-lon.prod.surfshark.com
@@ -8049,6 +8131,7 @@ IP,PROVIDER,DOMAIN
 184.75.212.59,NORDVPN,ca1008.nordvpn.com
 184.75.212.67,NORDVPN,ca1054.nordvpn.com
 184.75.212.75,NORDVPN,ca1055.nordvpn.com
+184.75.212.91,WINDSCRIBE,ca.windscribe.com
 184.75.213.131,NORDVPN,ca1051.nordvpn.com
 184.75.213.186,PIA,ca-ontario.privateinternetaccess.com
 184.75.213.218,PIA,ca-ontario.privateinternetaccess.com
@@ -8118,7 +8201,9 @@ IP,PROVIDER,DOMAIN
 185.104.186.2,TORGUARD,bg.torguardvpnaccess.com
 185.104.186.75,SURFSHARK,be-bru.prod.surfshark.com
 185.104.186.77,SURFSHARK,be-bru.prod.surfshark.com
+185.104.187.43,WINDSCRIBE,hu.windscribe.com
 185.104.187.75,NORDVPN,hu55.nordvpn.com
+185.104.219.2,WINDSCRIBE,ie.windscribe.com
 185.106.102.200,NORDVPN,cy14.nordvpn.com
 185.106.102.201,NORDVPN,cy12.nordvpn.com
 185.106.102.216,NORDVPN,cy15.nordvpn.com
@@ -8187,6 +8272,7 @@ IP,PROVIDER,DOMAIN
 185.108.105.18,SURFSHARK,uk-gla.prod.surfshark.com
 185.108.105.180,SURFSHARK,uk-gla.prod.surfshark.com
 185.108.105.182,SURFSHARK,uk-gla.prod.surfshark.com
+185.108.105.186,SURFSHARK,uk-gla.prod.surfshark.com
 185.108.105.20,SURFSHARK,uk-gla.prod.surfshark.com
 185.108.105.22,SURFSHARK,uk-gla.prod.surfshark.com
 185.108.105.3,SURFSHARK,uk-gla.prod.surfshark.com
@@ -8318,6 +8404,7 @@ IP,PROVIDER,DOMAIN
 185.108.128.185,SURFSHARK,ie-dub.prod.surfshark.com
 185.109.168.131,NORDVPN,uk1901.nordvpn.com
 185.109.170.243,NORDVPN,uk1902.nordvpn.com
+185.112.82.227,WINDSCRIBE,fi.windscribe.com
 185.114.224.106,NORDVPN,uk2181.nordvpn.com
 185.114.224.115,SURFSHARK,uk-lon.prod.surfshark.com
 185.114.224.119,SURFSHARK,uk-lon.prod.surfshark.com
@@ -8380,10 +8467,17 @@ IP,PROVIDER,DOMAIN
 185.125.170.44,PUREVPN,no2-ovpn-tcp.pointtoserver.com
 185.125.207.150,NORDVPN,uk1817.nordvpn.com
 185.125.207.155,SURFSHARK,uk-lon.prod.surfshark.com
+185.125.207.162,NORDVPN,uk1783.nordvpn.com
 185.125.207.177,SURFSHARK,uk-lon.prod.surfshark.com
 185.125.207.199,SURFSHARK,uk-lon.prod.surfshark.com
 185.125.207.201,SURFSHARK,uk-lon.prod.surfshark.com
+185.125.207.204,NORDVPN,uk1928.nordvpn.com
 185.125.207.235,NORDVPN,uk2055.nordvpn.com
+185.125.207.239,NORDVPN,uk2056.nordvpn.com
+185.125.207.243,NORDVPN,uk2057.nordvpn.com
+185.125.207.247,NORDVPN,uk2058.nordvpn.com
+185.125.207.251,NORDVPN,uk1932.nordvpn.com
+185.125.33.227,WINDSCRIBE,tr.windscribe.com
 185.128.24.59,NORDVPN,sg497.nordvpn.com
 185.128.25.115,NORDVPN,fr620.nordvpn.com
 185.128.25.219,NORDVPN,fr594.nordvpn.com
@@ -8430,6 +8524,7 @@ IP,PROVIDER,DOMAIN
 185.130.184.116,NORDVPN,de508.nordvpn.com
 185.130.184.117,NORDVPN,de509.nordvpn.com
 185.130.184.118,NORDVPN,de510.nordvpn.com
+185.130.184.195,WINDSCRIBE,de.windscribe.com
 185.134.114.10,NORDVPN,gr36.nordvpn.com
 185.134.114.12,NORDVPN,gr38.nordvpn.com
 185.134.114.3,NORDVPN,gr33.nordvpn.com
@@ -8440,6 +8535,7 @@ IP,PROVIDER,DOMAIN
 185.134.114.7,NORDVPN,gr32.nordvpn.com
 185.134.22.115,SURFSHARK,uk-lon.prod.surfshark.com
 185.134.22.119,NORDVPN,uk-nl7.nordvpn.com
+185.134.22.140,NORDVPN,uk1930.nordvpn.com
 185.134.22.19,NORDVPN,uk-fr8.nordvpn.com
 185.134.22.191,SURFSHARK,uk-lon.prod.surfshark.com
 185.134.22.20,NORDVPN,uk-fr9.nordvpn.com
@@ -8447,6 +8543,7 @@ IP,PROVIDER,DOMAIN
 185.134.22.218,NORDVPN,uk2175.nordvpn.com
 185.134.22.23,NORDVPN,uk2180.nordvpn.com
 185.134.22.232,SURFSHARK,uk-lon.prod.surfshark.com
+185.134.22.235,NORDVPN,uk1947.nordvpn.com
 185.134.22.25,NORDVPN,uk-fr6.nordvpn.com
 185.134.22.251,SURFSHARK,uk-lon.prod.surfshark.com
 185.134.22.253,SURFSHARK,uk-lon.prod.surfshark.com
@@ -8479,6 +8576,8 @@ IP,PROVIDER,DOMAIN
 185.141.206.242,SURFSHARK,uk-lon.prod.surfshark.com
 185.141.206.246,SURFSHARK,uk-lon.prod.surfshark.com
 185.141.206.250,SURFSHARK,uk-lon.prod.surfshark.com
+185.141.207.236,NORDVPN,uk1782.nordvpn.com
+185.141.207.243,NORDVPN,uk1869.nordvpn.com
 185.142.26.194,NORDVPN,de867.nordvpn.com
 185.142.26.202,NORDVPN,de868.nordvpn.com
 185.143.230.224,NORDVPN,de795.nordvpn.com
@@ -8666,6 +8765,7 @@ IP,PROVIDER,DOMAIN
 185.147.214.94,IPVANISH,mad-a13.ipvanish.com
 185.147.214.95,NAMECHEAP,mad-a13.vpn.wlvpn.com
 185.147.214.99,IPVANISH,mad-a14.ipvanish.com
+185.15.21.66,WINDSCRIBE,pt.windscribe.com
 185.151.58.112,NORDVPN,de784.nordvpn.com
 185.152.64.151,SURFSHARK,cz-prg.prod.surfshark.com
 185.152.64.178,SURFSHARK,cz-prg.prod.surfshark.com
@@ -8737,6 +8837,8 @@ IP,PROVIDER,DOMAIN
 185.155.96.107,FROSTVPN,gw1.tll1.frostvpn.com
 185.156.172.146,TORGUARD,nl.torguardvpnaccess.com
 185.156.173.164,PUREVPN,fr-ikev.ptoserver.com
+185.156.173.187,WINDSCRIBE,fr.windscribe.com
+185.156.174.11,WINDSCRIBE,cz.windscribe.com
 185.156.174.114,AIRVPN,centaurus.airservers.org
 185.156.174.154,AIRVPN,turais.airservers.org
 185.156.174.26,AIRVPN,markab.airservers.org
@@ -8748,6 +8850,7 @@ IP,PROVIDER,DOMAIN
 185.156.175.132,NORDVPN,ch217.nordvpn.com
 185.156.175.139,NORDVPN,ch252.nordvpn.com
 185.156.175.170,AIRVPN,achernar.airservers.org
+185.156.175.179,WINDSCRIBE,ch.windscribe.com
 185.156.175.188,NORDVPN,ch216.nordvpn.com
 185.156.175.34,AIRVPN,achird.airservers.org
 185.156.175.42,AIRVPN,hamal.airservers.org
@@ -8793,6 +8896,8 @@ IP,PROVIDER,DOMAIN
 185.16.206.114,SURFSHARK,uk-lon.prod.surfshark.com
 185.16.206.116,SURFSHARK,uk-lon.prod.surfshark.com
 185.16.206.32,NORDVPN,uk1948.nordvpn.com
+185.16.206.50,NORDVPN,uk1832.nordvpn.com
+185.16.206.58,NORDVPN,uk1831.nordvpn.com
 185.16.206.69,SURFSHARK,uk-lon.prod.surfshark.com
 185.16.206.75,SURFSHARK,uk-lon.prod.surfshark.com
 185.16.207.39,NORDVPN,uk2052.nordvpn.com
@@ -8818,6 +8923,7 @@ IP,PROVIDER,DOMAIN
 185.163.46.155,IPVANISH,kiv-c03.ipvanish.com
 185.163.46.156,NAMECHEAP,kiv-c03.vpn.wlvpn.com
 185.164.35.54,PIA,ba.privateinternetaccess.com
+185.165.170.2,WINDSCRIBE,is.windscribe.com
 185.165.241.35,PROTONVPN,nl-free-03.protonvpn.com
 185.165.241.36,PROTONVPN,nl-free-03.protonvpn.com
 185.165.241.37,PROTONVPN,nl-free-03.protonvpn.com
@@ -9013,6 +9119,7 @@ IP,PROVIDER,DOMAIN
 185.189.160.102,NORDVPN,tw52.nordvpn.com
 185.189.160.103,NORDVPN,tw53.nordvpn.com
 185.189.160.118,NORDVPN,tw70.nordvpn.com
+185.189.160.12,WINDSCRIBE,tw.windscribe.com
 185.189.160.120,NORDVPN,tw72.nordvpn.com
 185.189.160.121,NORDVPN,tw73.nordvpn.com
 185.189.160.122,NORDVPN,tw71.nordvpn.com
@@ -9070,8 +9177,10 @@ IP,PROVIDER,DOMAIN
 185.189.160.24,NORDVPN,tw56.nordvpn.com
 185.189.160.240,NORDVPN,tw124.nordvpn.com
 185.189.160.241,NORDVPN,tw125.nordvpn.com
+185.189.160.27,WINDSCRIBE,tw.windscribe.com
 185.189.160.28,NORDVPN,tw57.nordvpn.com
 185.189.160.30,NORDVPN,tw59.nordvpn.com
+185.189.160.32,WINDSCRIBE,tw.windscribe.com
 185.189.160.34,NORDVPN,tw158.nordvpn.com
 185.189.160.37,NORDVPN,tw159.nordvpn.com
 185.189.160.40,NORDVPN,tw161.nordvpn.com
@@ -9120,6 +9229,7 @@ IP,PROVIDER,DOMAIN
 185.191.204.155,TORGUARD,isr.torguardvpnaccess.com
 185.191.204.3,ANONINE,is-ta.anonine.net
 185.191.204.8,ANONINE,is-ta.anonine.net
+185.191.205.139,WINDSCRIBE,il.windscribe.com
 185.191.206.13,NORDVPN,cy19.nordvpn.com
 185.191.206.3,NORDVPN,cy16.nordvpn.com
 185.191.206.8,NORDVPN,cy17.nordvpn.com
@@ -9187,6 +9297,7 @@ IP,PROVIDER,DOMAIN
 185.200.117.130,AIRVPN,hydra.airservers.org
 185.200.117.138,TORGUARD,singp.torguardvpnaccess.com
 185.200.117.142,TORGUARD,singp.torguardvpnaccess.com
+185.200.117.163,WINDSCRIBE,sg.windscribe.com
 185.200.117.186,TORGUARD,singp.torguardvpnaccess.com
 185.203.122.10,NORDVPN,in69.nordvpn.com
 185.203.122.11,NORDVPN,in70.nordvpn.com
@@ -9201,6 +9312,8 @@ IP,PROVIDER,DOMAIN
 185.204.1.138,ANONINE,fi.anonine.net
 185.204.1.139,ANONINE,fi.anonine.net
 185.204.1.140,ANONINE,fi.anonine.net
+185.206.224.195,WINDSCRIBE,dk.windscribe.com
+185.206.225.131,WINDSCRIBE,no.windscribe.com
 185.206.225.196,NORDVPN,no150.nordvpn.com
 185.206.225.243,NORDVPN,no167.nordvpn.com
 185.206.225.248,NORDVPN,no168.nordvpn.com
@@ -9255,6 +9368,7 @@ IP,PROVIDER,DOMAIN
 185.212.170.147,NORDVPN,ch274.nordvpn.com
 185.212.170.152,NORDVPN,ch275.nordvpn.com
 185.212.170.157,NORDVPN,ch278.nordvpn.com
+185.212.171.131,WINDSCRIBE,nl.windscribe.com
 185.212.171.195,NORDVPN,nl770.nordvpn.com
 185.212.171.200,NORDVPN,nl771.nordvpn.com
 185.212.171.205,NORDVPN,nl772.nordvpn.com
@@ -9362,6 +9476,7 @@ IP,PROVIDER,DOMAIN
 185.225.28.91,SURFSHARK,mk-skp.prod.surfshark.com
 185.225.28.93,SURFSHARK,mk-skp.prod.surfshark.com
 185.225.28.99,SURFSHARK,mk-skp.prod.surfshark.com
+185.226.64.111,WINDSCRIBE,gr.windscribe.com
 185.228.19.146,AIRVPN,dimidium.airservers.org
 185.229.191.101,NORDVPN,nl756.nordvpn.com
 185.229.58.129,NORDVPN,nl409.nordvpn.com
@@ -9469,6 +9584,7 @@ IP,PROVIDER,DOMAIN
 185.230.127.83,NORDVPN,de815.nordvpn.com
 185.232.15.211,NORDVPN,us5568.nordvpn.com
 185.232.20.131,SURFSHARK,nl-ams.prod.surfshark.com
+185.232.21.131,WINDSCRIBE,be.windscribe.com
 185.232.21.210,TORGUARD,bg.torguardvpnaccess.com
 185.232.21.242,TORGUARD,bg.torguardvpnaccess.com
 185.232.21.250,TORGUARD,bg.torguardvpnaccess.com
@@ -9479,6 +9595,8 @@ IP,PROVIDER,DOMAIN
 185.232.21.53,SURFSHARK,be-bru.prod.surfshark.com
 185.232.21.99,NORDVPN,be156.nordvpn.com
 185.232.22.11,NORDVPN,us6040.nordvpn.com
+185.232.22.131,WINDSCRIBE,wf-us.windscribe.com
+185.232.22.195,WINDSCRIBE,us-east.windscribe.com
 185.232.22.75,NORDVPN,us6180.nordvpn.com
 185.232.23.43,NORDVPN,de851.nordvpn.com
 185.236.200.115,NORDVPN,us5729.nordvpn.com
@@ -9491,6 +9609,7 @@ IP,PROVIDER,DOMAIN
 185.236.200.179,NORDVPN,us5923.nordvpn.com
 185.236.200.195,NORDVPN,us5727.nordvpn.com
 185.236.200.203,NORDVPN,us5726.nordvpn.com
+185.236.200.35,WINDSCRIBE,us-west.windscribe.com
 185.236.201.123,NORDVPN,ch246.nordvpn.com
 185.236.201.131,NORDVPN,ch242.nordvpn.com
 185.236.201.139,NORDVPN,ch243.nordvpn.com
@@ -9536,6 +9655,7 @@ IP,PROVIDER,DOMAIN
 185.236.42.90,NORDVPN,se469.nordvpn.com
 185.236.42.94,NORDVPN,se470.nordvpn.com
 185.236.42.98,NORDVPN,se471.nordvpn.com
+185.24.232.146,WINDSCRIBE,ie.windscribe.com
 185.24.233.47,FROSTVPN,gw1.dub2.frostvpn.com
 185.240.246.107,NORDVPN,us5445.nordvpn.com
 185.240.246.11,NORDVPN,us5448.nordvpn.com
@@ -9620,6 +9740,7 @@ IP,PROVIDER,DOMAIN
 185.244.214.237,NORDVPN,pl150.nordvpn.com
 185.244.214.242,NORDVPN,pl151.nordvpn.com
 185.244.214.247,NORDVPN,pl152.nordvpn.com
+185.244.214.35,WINDSCRIBE,pl.windscribe.com
 185.244.215.147,NORDVPN,us5946.nordvpn.com
 185.244.215.155,NORDVPN,us5947.nordvpn.com
 185.244.215.195,NORDVPN,us6182.nordvpn.com
@@ -9749,6 +9870,7 @@ IP,PROVIDER,DOMAIN
 185.245.85.152,IPVANISH,bts-c03.ipvanish.com
 185.245.85.171,NORDVPN,sk43.nordvpn.com
 185.245.85.179,NORDVPN,sk48.nordvpn.com
+185.245.85.3,WINDSCRIBE,sk.windscribe.com
 185.245.85.75,NORDVPN,sk40.nordvpn.com
 185.245.86.100,NORDVPN,us5061.nordvpn.com
 185.245.86.107,NORDVPN,us5744.nordvpn.com
@@ -9808,6 +9930,7 @@ IP,PROVIDER,DOMAIN
 185.246.210.162,HIDEMYASS,cz.hma.rocks
 185.246.210.178,HIDEMYASS,cz.hma.rocks
 185.246.210.194,HIDEMYASS,cz.hma.rocks
+185.246.210.2,WINDSCRIBE,cz.windscribe.com
 185.246.210.76,NORDVPN,cz111.nordvpn.com
 185.246.211.103,SURFSHARK,fr-par.prod.surfshark.com
 185.246.211.175,NORDVPN,fr657.nordvpn.com
@@ -9863,6 +9986,7 @@ IP,PROVIDER,DOMAIN
 185.253.162.11,PIA,cyprus.privacy.network
 185.253.162.12,PIA,cyprus.privacy.network
 185.253.96.187,NORDVPN,nl777.nordvpn.com
+185.253.96.3,WINDSCRIBE,nl.windscribe.com
 185.253.97.205,TUNNELBEAR,no.lazerpenguin.com
 185.253.97.206,TUNNELBEAR,no.lazerpenguin.com
 185.253.97.207,TUNNELBEAR,no.lazerpenguin.com
@@ -9878,6 +10002,7 @@ IP,PROVIDER,DOMAIN
 185.253.97.219,TUNNELBEAR,no.lazerpenguin.com
 185.253.98.101,NORDVPN,uk1878.nordvpn.com
 185.253.98.106,NORDVPN,uk1879.nordvpn.com
+185.253.99.131,WINDSCRIBE,es.windscribe.com
 185.254.68.83,NORDVPN,nl769.nordvpn.com
 185.254.68.91,NORDVPN,nl768.nordvpn.com
 185.26.239.97,FROSTVPN,gw1.cdg2.frostvpn.com
@@ -9892,8 +10017,10 @@ IP,PROVIDER,DOMAIN
 185.38.150.41,SURFSHARK,uk-lon.prod.surfshark.com
 185.38.150.46,NORDVPN,uk-nl4.nordvpn.com
 185.38.150.47,NORDVPN,uk-nl5.nordvpn.com
+185.38.150.52,NORDVPN,uk1931.nordvpn.com
 185.38.150.88,SURFSHARK,uk-lon.prod.surfshark.com
 185.38.150.91,NORDVPN,uk1780.nordvpn.com
+185.38.150.95,NORDVPN,uk1833.nordvpn.com
 185.42.221.28,FROSTVPN,gw1.lhr4.frostvpn.com
 185.44.76.104,SURFSHARK,uk-lon.prod.surfshark.com
 185.44.76.119,SURFSHARK,uk-lon.prod.surfshark.com
@@ -9906,6 +10033,7 @@ IP,PROVIDER,DOMAIN
 185.44.76.55,SURFSHARK,uk-lon.prod.surfshark.com
 185.44.76.72,SURFSHARK,uk-lon.prod.surfshark.com
 185.44.76.77,NORDVPN,uk1868.nordvpn.com
+185.44.76.85,NORDVPN,uk1871.nordvpn.com
 185.44.77.103,NORDVPN,uk2158.nordvpn.com
 185.44.77.107,NORDVPN,uk2159.nordvpn.com
 185.44.77.111,NORDVPN,uk2157.nordvpn.com
@@ -10019,6 +10147,7 @@ IP,PROVIDER,DOMAIN
 185.93.2.82,HIDEMYASS,fr.hma.rocks
 185.93.2.98,HIDEMYASS,fr.hma.rocks
 185.94.192.179,NORDVPN,bg39.nordvpn.com
+185.94.192.35,WINDSCRIBE,bg.windscribe.com
 185.94.193.237,CRYPTOSTORM,balancer.cstorm.is
 185.94.193.238,CRYPTOSTORM,rome.cstorm.is
 185.97.144.251,NORDVPN,us5870.nordvpn.com
@@ -10027,10 +10156,14 @@ IP,PROVIDER,DOMAIN
 185.99.3.104,NORDVPN,ba9.nordvpn.com
 185.99.3.18,NORDVPN,ba10.nordvpn.com
 185.99.3.20,NORDVPN,ba11.nordvpn.com
+185.99.3.24,WINDSCRIBE,ba.windscribe.com
 186.16.32.163,SURFSHARK,py-asu.prod.surfshark.com
 186.16.32.168,SURFSHARK,py-asu.prod.surfshark.com
 186.16.32.173,SURFSHARK,py-asu.prod.surfshark.com
 188.116.53.17,FROSTVPN,gw1.gdn1.frostvpn.com
+188.123.126.146,WINDSCRIBE,gr.windscribe.com
+188.124.42.115,WINDSCRIBE,ru.windscribe.com
+188.124.42.99,WINDSCRIBE,ru.windscribe.com
 188.126.74.1,ANONINE,se-ovpn-private.anonine.net
 188.126.89.11,PIA,fi.privacy.network
 188.126.89.12,PIA,fi.privacy.network
@@ -10198,6 +10331,11 @@ IP,PROVIDER,DOMAIN
 188.95.55.88,NORDVPN,be201.nordvpn.com
 188.95.55.93,NORDVPN,be202.nordvpn.com
 188.95.55.98,NORDVPN,be203.nordvpn.com
+190.103.179.211,WINDSCRIBE,mx.windscribe.com
+190.103.179.217,WINDSCRIBE,mx.windscribe.com
+190.105.236.19,WINDSCRIBE,ar.windscribe.com
+190.105.236.32,WINDSCRIBE,ar.windscribe.com
+190.105.236.50,WINDSCRIBE,ar.windscribe.com
 190.106.134.100,PIA,ar.privateinternetaccess.com
 190.112.223.100,NORDVPN,cr24.nordvpn.com
 190.112.223.136,NORDVPN,cr26.nordvpn.com
@@ -10467,6 +10605,8 @@ IP,PROVIDER,DOMAIN
 192.158.233.222,CRYPTOSTORM,florida.cstorm.is
 192.171.18.172,FROSTVPN,gw1.mia3.frostvpn.com
 192.187.101.186,FROSTVPN,gw1.mci2.frostvpn.com
+192.190.19.65,WINDSCRIBE,ca.windscribe.com
+192.190.19.97,WINDSCRIBE,ca.windscribe.com
 192.198.120.122,PUREVPN,vlus-eg1-ovpn-tcp.pointtoserver.com
 192.200.158.100,NAMECHEAP,phx-a11.vpn.wlvpn.com
 192.200.158.101,IPVANISH,phx-a08.ipvanish.com
@@ -10740,6 +10880,7 @@ IP,PROVIDER,DOMAIN
 192.253.250.6,PUREVPN,is2-tcp.ptoserver.com
 192.253.253.2,PUREVPN,ru-ikev.ptoserver.com
 192.253.253.4,PUREVPN,ro2-udp.ptoserver.com
+192.3.20.51,WINDSCRIBE,us-west.windscribe.com
 192.3.53.10,PUREVPN,ussa2-auto-udp.ptoserver.com
 192.3.53.11,PUREVPN,ussa2-auto-udp.ptoserver.com
 192.3.53.12,PUREVPN,ussa2-auto-udp.ptoserver.com
@@ -10792,6 +10933,7 @@ IP,PROVIDER,DOMAIN
 192.99.37.192,TIGERVPN,mon.tigervpn.com
 192.99.4.110,TUNNELBEAR,ca.lazerpenguin.com
 193.148.16.210,AIRVPN,taphao.airservers.org
+193.148.16.243,WINDSCRIBE,jp.windscribe.com
 193.148.17.131,SURFSHARK,uk-man.prod.surfshark.com
 193.148.17.133,SURFSHARK,uk-man.prod.surfshark.com
 193.148.17.83,SURFSHARK,uk-man.prod.surfshark.com
@@ -11190,6 +11332,7 @@ IP,PROVIDER,DOMAIN
 194.180.179.67,NORDVPN,us5896.nordvpn.com
 194.187.249.27,NORDVPN,fr655.nordvpn.com
 194.187.251.114,AIRVPN,columba.airservers.org
+194.187.251.147,WINDSCRIBE,be.windscribe.com
 194.187.251.154,AIRVPN,mebsuta.airservers.org
 194.187.251.162,AIRVPN,diadema.airservers.org
 194.187.251.34,TORGUARD,bg.torguardvpnaccess.com
@@ -11210,6 +11353,7 @@ IP,PROVIDER,DOMAIN
 194.34.132.57,PROTONVPN,fi-02.protonvpn.com
 194.34.132.58,PROTONVPN,fi-03.protonvpn.com
 194.34.132.59,PROTONVPN,fi-04.protonvpn.com
+194.34.133.82,WINDSCRIBE,fi.windscribe.com
 194.35.15.115,NORDVPN,us5868.nordvpn.com
 194.35.233.104,NORDVPN,uk2111.nordvpn.com
 194.35.233.107,NORDVPN,uk2112.nordvpn.com
@@ -11443,6 +11587,7 @@ IP,PROVIDER,DOMAIN
 195.140.213.151,NORDVPN,uk1870.nordvpn.com
 195.140.213.161,NORDVPN,uk2133.nordvpn.com
 195.140.213.201,NORDVPN,uk1601.nordvpn.com
+195.140.213.241,NORDVPN,uk1949.nordvpn.com
 195.140.213.29,NORDVPN,uk2132.nordvpn.com
 195.140.213.33,NORDVPN,uk2131.nordvpn.com
 195.140.213.37,NORDVPN,uk2130.nordvpn.com
@@ -11574,6 +11719,7 @@ IP,PROVIDER,DOMAIN
 195.181.163.44,NORDVPN,us6164.nordvpn.com
 195.181.164.39,NORDVPN,uk2099.nordvpn.com
 195.181.166.104,NORDVPN,se484.nordvpn.com
+195.181.166.129,WINDSCRIBE,se.windscribe.com
 195.181.166.67,NORDVPN,se437.nordvpn.com
 195.181.166.74,NORDVPN,se438.nordvpn.com
 195.181.166.79,NORDVPN,se439.nordvpn.com
@@ -11612,12 +11758,14 @@ IP,PROVIDER,DOMAIN
 195.181.170.239,PIA,de-frankfurt.privateinternetaccess.com
 195.181.170.240,PIA,de-frankfurt.privateinternetaccess.com
 195.181.170.244,PIA,de-frankfurt.privateinternetaccess.com
+195.181.170.66,WINDSCRIBE,de.windscribe.com
 195.181.173.104,NORDVPN,nl755.nordvpn.com
 195.181.173.200,NORDVPN,nl754.nordvpn.com
 195.181.174.146,NORDVPN,de932.nordvpn.com
 195.181.174.159,NORDVPN,de931.nordvpn.com
 195.181.174.173,NORDVPN,de933.nordvpn.com
 195.181.174.90,NORDVPN,de764.nordvpn.com
+195.181.175.98,WINDSCRIBE,de.windscribe.com
 195.206.104.156,NORDVPN,us5064.nordvpn.com
 195.206.104.179,NORDVPN,us6155.nordvpn.com
 195.206.105.115,NORDVPN,ch287.nordvpn.com
@@ -11816,6 +11964,7 @@ IP,PROVIDER,DOMAIN
 196.196.203.83,NORDVPN,fi128.nordvpn.com
 196.196.203.91,NORDVPN,fi129.nordvpn.com
 196.196.203.99,NORDVPN,fi130.nordvpn.com
+196.196.216.131,WINDSCRIBE,ee.windscribe.com
 196.196.216.19,NORDVPN,ee40.nordvpn.com
 196.196.216.3,NORDVPN,ee36.nordvpn.com
 196.196.216.75,NORDVPN,ee37.nordvpn.com
@@ -11880,6 +12029,7 @@ IP,PROVIDER,DOMAIN
 196.244.191.91,SURFSHARK,fi-hel.prod.surfshark.com
 196.244.191.93,SURFSHARK,fi-hel.prod.surfshark.com
 196.244.191.99,SURFSHARK,fi-hel.prod.surfshark.com
+196.244.192.51,WINDSCRIBE,fi.windscribe.com
 196.245.151.19,NORDVPN,sk37.nordvpn.com
 196.245.151.211,PROTONVPN,sk-01.protonvpn.com
 196.245.151.212,PROTONVPN,sk-02.protonvpn.com
@@ -11935,7 +12085,10 @@ IP,PROVIDER,DOMAIN
 196.251.250.74,HIDEMYASS,za.hma.rocks
 196.251.250.92,HIDEMYASS,za.hma.rocks
 196.251.67.4,PUREVPN,gh1-ovpn-tcp.pointtoserver.com
+197.242.156.53,WINDSCRIBE,za.windscribe.com
+197.242.157.235,WINDSCRIBE,za.windscribe.com
 197.85.191.74,FROSTVPN,gw1.cpt1.frostvpn.com
+198.12.116.195,WINDSCRIBE,us-west.windscribe.com
 198.134.108.67,HIDEMYASS,in.us.hma.rocks
 198.134.109.131,HIDEMYASS,in.us.hma.rocks
 198.144.157.100,FROSTVPN,gw3.yyz1.frostvpn.com
@@ -11952,6 +12105,7 @@ IP,PROVIDER,DOMAIN
 198.147.22.197,SURFSHARK,us-orl.prod.surfshark.com
 198.147.22.211,SURFSHARK,us-orl.prod.surfshark.com
 198.147.22.213,SURFSHARK,us-orl.prod.surfshark.com
+198.147.22.225,WINDSCRIBE,us-east.windscribe.com
 198.147.22.83,SURFSHARK,us-orl.prod.surfshark.com
 198.147.22.85,SURFSHARK,us-orl.prod.surfshark.com
 198.147.22.87,SURFSHARK,us-orl.prod.surfshark.com
@@ -12104,6 +12258,7 @@ IP,PROVIDER,DOMAIN
 198.199.93.111,TUNNELBEAR,us.lazerpenguin.com
 198.203.28.42,AIRVPN,pollux.airservers.org
 198.211.101.187,TUNNELBEAR,us.lazerpenguin.com
+198.23.242.147,WINDSCRIBE,us-west.windscribe.com
 198.55.97.130,TORGUARD,la.west.usa.torguardvpnaccess.com
 198.58.117.6,FROSTVPN,gw2.dfw3.frostvpn.com
 198.8.80.102,NORDVPN,us6647.nordvpn.com
@@ -12154,7 +12309,9 @@ IP,PROVIDER,DOMAIN
 198.8.85.147,NORDVPN,ca1123.nordvpn.com
 198.8.85.150,NORDVPN,ca1124.nordvpn.com
 198.8.85.19,SURFSHARK,ca-mon.prod.surfshark.com
+198.8.85.195,WINDSCRIBE,ca.windscribe.com
 198.8.85.21,SURFSHARK,ca-mon.prod.surfshark.com
+198.8.85.210,WINDSCRIBE,ca.windscribe.com
 198.8.85.3,SURFSHARK,ca-mon.prod.surfshark.com
 198.8.85.35,SURFSHARK,ca-mon.prod.surfshark.com
 198.8.85.37,SURFSHARK,ca-mon.prod.surfshark.com
@@ -12276,6 +12433,9 @@ IP,PROVIDER,DOMAIN
 199.19.94.140,FROSTVPN,gw1.yyz1.frostvpn.com
 199.195.192.104,FROSTVPN,gw1.sjc2.frostvpn.com
 199.195.193.181,FROSTVPN,gw1.sin1.frostvpn.com
+199.204.208.158,WINDSCRIBE,ca.windscribe.com
+199.217.104.227,WINDSCRIBE,us-east.windscribe.com
+199.217.105.227,WINDSCRIBE,us-east.windscribe.com
 199.217.107.20,SURFSHARK,us-bos.prod.surfshark.com
 199.217.107.22,SURFSHARK,us-bos.prod.surfshark.com
 199.217.107.25,SURFSHARK,us-bos.prod.surfshark.com
@@ -12595,6 +12755,14 @@ IP,PROVIDER,DOMAIN
 2.58.241.43,SURFSHARK,tw-tai.prod.surfshark.com
 2.58.241.45,SURFSHARK,tw-tai.prod.surfshark.com
 2.58.241.5,SURFSHARK,tw-tai.prod.surfshark.com
+2.58.241.67,PROTONVPN,tw-13.protonvpn.com
+2.58.241.68,PROTONVPN,tw-14.protonvpn.com
+2.58.241.69,PROTONVPN,tw-15.protonvpn.com
+2.58.241.70,PROTONVPN,tw-16.protonvpn.com
+2.58.241.71,PROTONVPN,tw-17.protonvpn.com
+2.58.241.72,PROTONVPN,tw-18.protonvpn.com
+2.58.241.73,PROTONVPN,tw-19.protonvpn.com
+2.58.241.74,PROTONVPN,tw-20.protonvpn.com
 2.58.242.155,SURFSHARK,tw-tai.prod.surfshark.com
 2.58.242.157,SURFSHARK,tw-tai.prod.surfshark.com
 2.58.242.43,SURFSHARK,tw-tai.prod.surfshark.com
@@ -12730,11 +12898,15 @@ IP,PROVIDER,DOMAIN
 200.25.61.7,PROTONVPN,ar-03.protonvpn.com
 200.25.61.8,PROTONVPN,ar-04.protonvpn.com
 200.25.61.9,PROTONVPN,ar-05.protonvpn.com
+200.85.152.110,WINDSCRIBE,ar.windscribe.com
 2001:1af8:4010:a046:7::3,ANONINE,nl.anonine.net
+201.131.125.107,WINDSCRIBE,mx.windscribe.com
 202.129.16.104,TORGUARD,thai.torguardvpnaccess.com
 202.129.16.106,TORGUARD,thai.torguardvpnaccess.com
 202.129.16.140,TORGUARD,thai.torguardvpnaccess.com
 202.129.16.143,TORGUARD,thai.torguardvpnaccess.com
+202.129.16.147,WINDSCRIBE,th.windscribe.com
+202.129.16.155,WINDSCRIBE,th.windscribe.com
 202.129.16.42,TORGUARD,thai.torguardvpnaccess.com
 202.130.32.21,PIA,au-sydney.privacy.network
 202.130.32.22,PIA,au-sydney.privacy.network
@@ -13429,7 +13601,9 @@ IP,PROVIDER,DOMAIN
 206.214.78.250,NORDVPN,us6895.nordvpn.com
 206.214.78.34,NORDVPN,us6896.nordvpn.com
 206.214.78.75,NORDVPN,us6965.nordvpn.com
+206.217.128.3,WINDSCRIBE,us-east.windscribe.com
 206.217.128.67,FROSTVPN,gw1.lga1.frostvpn.com
+206.217.129.227,WINDSCRIBE,us-east.windscribe.com
 206.217.136.90,FROSTVPN,gw1.ord4.frostvpn.com
 206.221.178.210,FROSTVPN,gw1.lga2.frostvpn.com
 206.81.17.178,TUNNELBEAR,de.lazerpenguin.com
@@ -14236,6 +14410,8 @@ IP,PROVIDER,DOMAIN
 209.197.26.94,NAMECHEAP,atl-a05.vpn.wlvpn.com
 209.197.26.98,IPVANISH,atl-a06.ipvanish.com
 209.197.26.99,IPVANISH,atl-a06.ipvanish.com
+209.216.79.67,WINDSCRIBE,us-east.windscribe.com
+209.216.79.83,WINDSCRIBE,us-east.windscribe.com
 209.216.92.195,SURFSHARK,us-tpa.prod.surfshark.com
 209.216.92.197,SURFSHARK,us-tpa.prod.surfshark.com
 209.216.92.200,SURFSHARK,us-tpa.prod.surfshark.com
@@ -14315,6 +14491,7 @@ IP,PROVIDER,DOMAIN
 209.58.128.50,SURFSHARK,us-sfo.prod.surfshark.com
 209.58.128.96,NORDVPN,us6510.nordvpn.com
 209.58.129.100,PROTONVPN,us-ca-04.protonvpn.com
+209.58.129.121,WINDSCRIBE,us-west.windscribe.com
 209.58.129.97,PROTONVPN,us-ca-01.protonvpn.com
 209.58.129.98,PROTONVPN,us-ca-02.protonvpn.com
 209.58.129.99,PROTONVPN,us-ca-03.protonvpn.com
@@ -14965,12 +15142,17 @@ IP,PROVIDER,DOMAIN
 212.102.59.129,PIA,us-chicago.privateinternetaccess.com
 212.102.59.54,PIA,us-chicago.privateinternetaccess.com
 212.102.61.1,PIA,us-florida.privacy.network
+212.102.61.102,PIA,us-florida.privacy.network
 212.102.61.11,PIA,us-florida.privacy.network
+212.102.61.112,PIA,us-florida.privacy.network
 212.102.61.12,PIA,us-florida.privacy.network
 212.102.61.130,SURFSHARK,us-mia.prod.surfshark.com
 212.102.61.132,SURFSHARK,us-mia.prod.surfshark.com
 212.102.61.2,PIA,us-florida.privacy.network
+212.102.61.201,PIA,us-florida.privacy.network
+212.102.61.202,PIA,us-florida.privacy.network
 212.102.61.21,PIA,us-florida.privacy.network
+212.102.61.211,PIA,us-florida.privacy.network
 212.102.61.22,PIA,us-florida.privacy.network
 212.102.61.31,PIA,us-florida.privacy.network
 212.102.61.32,PIA,us-florida.privacy.network
@@ -15006,6 +15188,7 @@ IP,PROVIDER,DOMAIN
 212.103.49.163,NORDVPN,us6988.nordvpn.com
 212.103.49.171,NORDVPN,us6987.nordvpn.com
 212.103.49.51,NORDVPN,us8009.nordvpn.com
+212.103.49.67,WINDSCRIBE,us-west.windscribe.com
 212.103.50.43,NORDVPN,de793.nordvpn.com
 212.103.50.51,NORDVPN,de794.nordvpn.com
 212.129.1.241,CRYPTOSTORM,paris.cstorm.is
@@ -15601,6 +15784,7 @@ IP,PROVIDER,DOMAIN
 216.18.205.180,PROTONVPN,us-ut-22.protonvpn.com
 216.18.205.181,PROTONVPN,us-ut-23.protonvpn.com
 216.18.205.182,PROTONVPN,us-ut-24.protonvpn.com
+216.45.53.131,WINDSCRIBE,us-west.windscribe.com
 217.138.192.136,PUREVPN,hu2-tcp.ptoserver.com
 217.138.192.137,PUREVPN,hu2-tcp.ptoserver.com
 217.138.192.138,PUREVPN,hu2-udp.ptoserver.com
@@ -15635,6 +15819,7 @@ IP,PROVIDER,DOMAIN
 217.138.193.171,PIA,ae.privacy.network
 217.138.193.172,PIA,ae.privacy.network
 217.138.193.99,PROTONVPN,ae-09.protonvpn.com
+217.138.194.115,WINDSCRIBE,de.windscribe.com
 217.138.194.195,PUREVPN,de2-ovpn-tcp.pointtoserver.com
 217.138.194.196,PUREVPN,de2-ovpn-udp.pointtoserver.com
 217.138.196.19,PROTONVPN,uk-17.protonvpn.com
@@ -15791,6 +15976,7 @@ IP,PROVIDER,DOMAIN
 217.138.205.59,NORDVPN,au699.nordvpn.com
 217.138.205.67,NORDVPN,au491.nordvpn.com
 217.138.205.98,TORGUARD,au.torguardvpnaccess.com
+217.138.206.211,WINDSCRIBE,wf-us.windscribe.com
 217.138.206.35,NORDVPN,us6046.nordvpn.com
 217.138.206.43,NORDVPN,us6047.nordvpn.com
 217.138.206.51,NORDVPN,us6048.nordvpn.com
@@ -15917,11 +16103,14 @@ IP,PROVIDER,DOMAIN
 217.138.216.51,NORDVPN,de760.nordvpn.com
 217.138.216.59,SURFSHARK,de-ber.prod.surfshark.com
 217.138.216.61,SURFSHARK,de-ber.prod.surfshark.com
+217.138.217.211,WINDSCRIBE,us-west.windscribe.com
+217.138.217.51,WINDSCRIBE,us-west.windscribe.com
 217.138.218.179,NORDVPN,es137.nordvpn.com
 217.138.218.187,NORDVPN,es138.nordvpn.com
 217.138.218.195,NORDVPN,es139.nordvpn.com
 217.138.218.210,PUREVPN,es2-ovpn-tcp.pointtoserver.com
 217.138.218.211,PUREVPN,es2-ovpn-tcp.pointtoserver.com
+217.138.218.99,WINDSCRIBE,es.windscribe.com
 217.138.219.131,NORDVPN,it158.nordvpn.com
 217.138.219.134,NORDVPN,it159.nordvpn.com
 217.138.219.137,NORDVPN,it160.nordvpn.com
@@ -15973,6 +16162,8 @@ IP,PROVIDER,DOMAIN
 217.138.222.45,SURFSHARK,ie-dub.prod.surfshark.com
 217.138.222.51,SURFSHARK,ie-dub.prod.surfshark.com
 217.138.222.53,SURFSHARK,ie-dub.prod.surfshark.com
+217.138.255.163,WINDSCRIBE,us-east.windscribe.com
+217.138.255.179,WINDSCRIBE,us-east.windscribe.com
 217.146.0.26,TIGERVPN,bgk.tigervpn.com
 217.146.1.18,TIGERVPN,mad.tigervpn.com
 217.146.10.26,TIGERVPN,del.tigervpn.com
@@ -16028,6 +16219,7 @@ IP,PROVIDER,DOMAIN
 217.64.113.59,PUREVPN,it2-udp.ptoserver.com
 217.64.113.60,PUREVPN,it2-udp.ptoserver.com
 217.64.113.61,PUREVPN,it2-udp.ptoserver.com
+217.64.127.11,WINDSCRIBE,at.windscribe.com
 217.64.127.194,AIRVPN,caelum.airservers.org
 217.64.127.219,NORDVPN,at88.nordvpn.com
 217.64.127.251,PUREVPN,at2-tcp.ptoserver.com
@@ -16038,6 +16230,7 @@ IP,PROVIDER,DOMAIN
 217.78.2.154,ANONINE,ie.anonine.net
 217.78.2.155,ANONINE,ie.anonine.net
 217.78.2.156,ANONINE,ie.anonine.net
+218.232.76.179,WINDSCRIBE,kr.windscribe.com
 221.121.145.131,PIA,au-sydney.privateinternetaccess.com
 221.121.145.133,PIA,au-sydney.privateinternetaccess.com
 221.121.145.135,PIA,au-sydney.privateinternetaccess.com
@@ -16064,6 +16257,9 @@ IP,PROVIDER,DOMAIN
 223.252.60.2,PUREVPN,au-ikev.ptoserver.com
 223.252.60.85,PUREVPN,au-bn2-ovpn-udp.pointtoserver.com
 223.252.60.99,PUREVPN,au-ikev.ptoserver.com
+23.105.170.130,WINDSCRIBE,us-east.windscribe.com
+23.105.170.139,WINDSCRIBE,us-east.windscribe.com
+23.105.170.151,WINDSCRIBE,us-east.windscribe.com
 23.105.170.51,NORDVPN,us6673.nordvpn.com
 23.105.171.168,NORDVPN,us6676.nordvpn.com
 23.105.171.17,NORDVPN,us6678.nordvpn.com
@@ -16106,6 +16302,9 @@ IP,PROVIDER,DOMAIN
 23.111.78.45,ANONINE,ca-west.anonine.net
 23.111.78.46,ANONINE,ca-west.anonine.net
 23.111.78.47,ANONINE,ca-west.anonine.net
+23.154.160.177,WINDSCRIBE,ca.windscribe.com
+23.154.160.212,WINDSCRIBE,aq.windscribe.com
+23.154.160.222,WINDSCRIBE,aq.windscribe.com
 23.19.67.117,CRYPTOSTORM,la.cstorm.is
 23.19.67.118,CRYPTOSTORM,la.cstorm.is
 23.19.67.119,CRYPTOSTORM,la.cstorm.is
@@ -16154,6 +16353,7 @@ IP,PROVIDER,DOMAIN
 23.226.134.82,TORGUARD,nj.east.usa.torguardvpnaccess.com
 23.226.134.90,TORGUARD,nj.east.usa.torguardvpnaccess.com
 23.226.134.98,TORGUARD,nj.east.usa.torguardvpnaccess.com
+23.226.141.195,WINDSCRIBE,us-east.windscribe.com
 23.227.198.67,PUREVPN,bd2-tcp.ptoserver.com
 23.229.98.25,PUREVPN,usca2-auto-udp.ptoserver.com
 23.229.98.26,PUREVPN,usca2-auto-udp.ptoserver.com
@@ -16254,12 +16454,14 @@ IP,PROVIDER,DOMAIN
 23.82.10.33,NORDVPN,us5931.nordvpn.com
 23.82.10.81,NORDVPN,us5933.nordvpn.com
 23.82.11.201,NORDVPN,us6053.nordvpn.com
+23.82.136.93,WINDSCRIBE,us-east.windscribe.com
 23.82.14.13,NORDVPN,us6055.nordvpn.com
 23.82.14.17,NORDVPN,us6056.nordvpn.com
 23.82.14.21,NORDVPN,us6006.nordvpn.com
 23.82.14.33,NORDVPN,us6007.nordvpn.com
 23.82.14.5,NORDVPN,us6008.nordvpn.com
 23.82.14.9,NORDVPN,us6054.nordvpn.com
+23.82.8.143,WINDSCRIBE,us-east.windscribe.com
 23.82.8.176,NORDVPN,us5736.nordvpn.com
 23.82.8.180,NORDVPN,us5737.nordvpn.com
 23.82.9.44,NORDVPN,us6009.nordvpn.com
@@ -16274,11 +16476,13 @@ IP,PROVIDER,DOMAIN
 23.83.129.165,NORDVPN,us5422.nordvpn.com
 23.83.129.173,NORDVPN,us5423.nordvpn.com
 23.83.130.143,HIDEMYASS,az.us.hma.rocks
+23.83.130.166,WINDSCRIBE,us-west.windscribe.com
 23.83.130.187,HIDEMYASS,az.us.hma.rocks
 23.83.130.34,HIDEMYASS,az.us.hma.rocks
 23.83.130.37,HIDEMYASS,az.us.hma.rocks
 23.83.130.44,NORDVPN,us5421.nordvpn.com
 23.83.131.113,HIDEMYASS,az.us.hma.rocks
+23.83.131.187,WINDSCRIBE,us-west.windscribe.com
 23.83.131.211,HIDEMYASS,az.us.hma.rocks
 23.83.131.215,HIDEMYASS,az.us.hma.rocks
 23.83.131.98,HIDEMYASS,az.us.hma.rocks
@@ -16288,11 +16492,15 @@ IP,PROVIDER,DOMAIN
 23.83.185.20,HIDEMYASS,az.us.hma.rocks
 23.83.185.35,HIDEMYASS,az.us.hma.rocks
 23.83.185.50,HIDEMYASS,az.us.hma.rocks
+23.83.91.170,WINDSCRIBE,us-east.windscribe.com
+23.92.127.35,WINDSCRIBE,ie.windscribe.com
 23.92.127.91,SURFSHARK,ie-dub.prod.surfshark.com
 23.92.127.93,SURFSHARK,ie-dub.prod.surfshark.com
 23.92.179.20,PUREVPN,usnj2-auto-tcp.ptoserver.com
 23.92.179.22,PUREVPN,usnj2-auto-ikev.ptoserver.com
 23.94.191.122,FROSTVPN,gw1.buf1.frostvpn.com
+23.94.74.99,WINDSCRIBE,us-west.windscribe.com
+27.254.130.221,WINDSCRIBE,th.windscribe.com
 27.255.77.195,SURFSHARK,kr-seo.prod.surfshark.com
 27.255.77.197,SURFSHARK,kr-seo.prod.surfshark.com
 27.255.77.226,SURFSHARK,kr-seo.prod.surfshark.com
@@ -16353,6 +16561,7 @@ IP,PROVIDER,DOMAIN
 31.13.191.44,TUNNELBEAR,se.lazerpenguin.com
 31.13.191.45,TUNNELBEAR,se.lazerpenguin.com
 31.13.191.46,TUNNELBEAR,se.lazerpenguin.com
+31.13.191.67,WINDSCRIBE,se.windscribe.com
 31.132.5.19,NORDVPN,uk1904.nordvpn.com
 31.132.6.11,NORDVPN,uk1915.nordvpn.com
 31.132.6.3,NORDVPN,uk1905.nordvpn.com
@@ -16381,6 +16590,7 @@ IP,PROVIDER,DOMAIN
 31.169.121.5,SURFSHARK,cl-san.prod.surfshark.com
 31.171.152.11,NORDVPN,al20.nordvpn.com
 31.171.152.115,NORDVPN,al21.nordvpn.com
+31.171.152.179,WINDSCRIBE,al.windscribe.com
 31.171.152.19,NORDVPN,al18.nordvpn.com
 31.171.152.195,SURFSHARK,al-tia.prod.surfshark.com
 31.171.152.197,SURFSHARK,al-tia.prod.surfshark.com
@@ -16486,6 +16696,7 @@ IP,PROVIDER,DOMAIN
 31.3.238.251,ANONINE,uk-ln.anonine.net
 31.3.238.252,ANONINE,uk-ln.anonine.net
 31.3.238.253,ANONINE,uk-ln.anonine.net
+31.7.57.242,WINDSCRIBE,ch.windscribe.com
 36.255.96.2,PUREVPN,tw-ikev.ptoserver.com
 36.255.97.130,PUREVPN,vlap-ph1.pointtoserver.com
 36.255.97.2,PUREVPN,ph-ikev.ptoserver.com
@@ -16522,6 +16733,7 @@ IP,PROVIDER,DOMAIN
 37.120.133.77,NORDVPN,uk1895.nordvpn.com
 37.120.133.85,NORDVPN,uk1896.nordvpn.com
 37.120.133.90,NORDVPN,uk1897.nordvpn.com
+37.120.135.83,WINDSCRIBE,it.windscribe.com
 37.120.137.147,NORDVPN,ch270.nordvpn.com
 37.120.137.152,NORDVPN,ch271.nordvpn.com
 37.120.137.157,NORDVPN,ch272.nordvpn.com
@@ -16539,6 +16751,7 @@ IP,PROVIDER,DOMAIN
 37.120.142.135,SURFSHARK,es-bcn.prod.surfshark.com
 37.120.142.179,SURFSHARK,es-bcn.prod.surfshark.com
 37.120.142.181,SURFSHARK,es-bcn.prod.surfshark.com
+37.120.142.227,WINDSCRIBE,es.windscribe.com
 37.120.143.11,NORDVPN,be179.nordvpn.com
 37.120.143.115,SURFSHARK,be-bru.prod.surfshark.com
 37.120.143.117,SURFSHARK,be-bru.prod.surfshark.com
@@ -16574,6 +16787,7 @@ IP,PROVIDER,DOMAIN
 37.120.145.51,TUNNELBEAR,dk.lazerpenguin.com
 37.120.145.52,TUNNELBEAR,dk.lazerpenguin.com
 37.120.145.6,TUNNELBEAR,dk.lazerpenguin.com
+37.120.147.163,WINDSCRIBE,us-west.windscribe.com
 37.120.147.234,TORGUARD,lv.west.usa.torguardvpnaccess.com
 37.120.147.242,TORGUARD,lv.west.usa.torguardvpnaccess.com
 37.120.147.250,TORGUARD,lv.west.usa.torguardvpnaccess.com
@@ -16712,6 +16926,7 @@ IP,PROVIDER,DOMAIN
 37.120.159.122,PIA,uk-manchester.privacy.network
 37.120.159.131,PIA,uk-manchester.privacy.network
 37.120.159.132,PIA,uk-manchester.privacy.network
+37.120.192.19,WINDSCRIBE,nl.windscribe.com
 37.120.192.2,PUREVPN,ae2-tcp.ptoserver.com
 37.120.192.211,PUREVPN,nl2-ovpn-udp.pointtoserver.com
 37.120.192.212,PUREVPN,nl2-ovpn-tcp.pointtoserver.com
@@ -16819,6 +17034,7 @@ IP,PROVIDER,DOMAIN
 37.120.203.203,NORDVPN,no146.nordvpn.com
 37.120.203.211,NORDVPN,no147.nordvpn.com
 37.120.203.219,NORDVPN,no148.nordvpn.com
+37.120.203.67,WINDSCRIBE,no.windscribe.com
 37.120.203.83,PROTONVPN,no-05.protonvpn.com
 37.120.203.84,PROTONVPN,no-06.protonvpn.com
 37.120.203.85,PROTONVPN,no-07.protonvpn.com
@@ -16852,6 +17068,7 @@ IP,PROVIDER,DOMAIN
 37.120.205.86,PROTONVPN,ca-32.protonvpn.com
 37.120.207.115,SURFSHARK,it-rom.prod.surfshark.com
 37.120.207.117,SURFSHARK,it-rom.prod.surfshark.com
+37.120.207.19,WINDSCRIBE,it.windscribe.com
 37.120.207.3,SURFSHARK,it-rom.prod.surfshark.com
 37.120.207.5,SURFSHARK,it-rom.prod.surfshark.com
 37.120.208.147,PUREVPN,sg2-ovpn-tcp.pointtoserver.com
@@ -16920,6 +17137,7 @@ IP,PROVIDER,DOMAIN
 37.120.213.115,NORDVPN,ch300.nordvpn.com
 37.120.213.123,NORDVPN,ch301.nordvpn.com
 37.120.213.131,NORDVPN,ch198.nordvpn.com
+37.120.213.163,WINDSCRIBE,ch.windscribe.com
 37.120.213.3,SURFSHARK,ch-zur.prod.surfshark.com
 37.120.213.43,NORDVPN,ch293.nordvpn.com
 37.120.213.5,SURFSHARK,ch-zur.prod.surfshark.com
@@ -17303,6 +17521,8 @@ IP,PROVIDER,DOMAIN
 37.59.53.127,TIGERVPN,par.tigervpn.com
 37.9.58.227,NORDVPN,uk1918.nordvpn.com
 37.9.59.131,NORDVPN,uk1919.nordvpn.com
+38.101.74.19,WINDSCRIBE,us-east.windscribe.com
+38.132.101.211,WINDSCRIBE,wf-us.windscribe.com
 38.132.103.147,PROTONVPN,us-free-03.protonvpn.com
 38.132.103.148,PROTONVPN,us-free-03.protonvpn.com
 38.132.103.149,PROTONVPN,us-free-03.protonvpn.com
@@ -17310,6 +17530,8 @@ IP,PROVIDER,DOMAIN
 38.132.112.101,SURFSHARK,us-nyc.prod.surfshark.com
 38.132.115.100,PUREVPN,usca2-auto-tcp.ptoserver.com
 38.132.115.99,PUREVPN,us-ikev.ptoserver.com
+38.132.122.131,WINDSCRIBE,wf-us.windscribe.com
+38.132.122.195,WINDSCRIBE,wf-us.windscribe.com
 38.146.52.205,HIDEMYASS,ma.us.hma.rocks
 38.146.52.221,HIDEMYASS,ma.us.hma.rocks
 38.146.52.237,HIDEMYASS,ma.us.hma.rocks
@@ -17396,6 +17618,7 @@ IP,PROVIDER,DOMAIN
 41.208.72.158,SURFSHARK,ly-tip.prod.surfshark.com
 41.208.72.204,SURFSHARK,ly-tip.prod.surfshark.com
 41.208.72.207,SURFSHARK,ly-tip.prod.surfshark.com
+41.231.5.23,WINDSCRIBE,tn.windscribe.com
 42.0.30.150,SURFSHARK,my-kul.prod.surfshark.com
 42.0.30.152,SURFSHARK,my-kul.prod.surfshark.com
 42.0.30.154,SURFSHARK,my-kul.prod.surfshark.com
@@ -17414,6 +17637,7 @@ IP,PROVIDER,DOMAIN
 43.228.156.7,PUREVPN,nz2-tcp.ptoserver.com
 43.228.158.2,PUREVPN,my-l2tp.ptoserver.com
 43.228.158.4,PUREVPN,my-pptp.ptoserver.com
+43.245.160.35,WINDSCRIBE,au.windscribe.com
 43.245.161.80,PUREVPN,au-sd2-ovpn-udp.pointtoserver.com
 43.245.161.81,PUREVPN,au-sd2-ovpn-udp.pointtoserver.com
 43.245.161.82,PUREVPN,au-sd2-ovpn-udp.pointtoserver.com
@@ -17702,7 +17926,11 @@ IP,PROVIDER,DOMAIN
 45.120.139.132,PIA,in.privacy.network
 45.120.139.91,PIA,in.privacy.network
 45.120.139.92,PIA,in.privacy.network
+45.121.208.160,WINDSCRIBE,au.windscribe.com
+45.121.209.160,WINDSCRIBE,au.windscribe.com
+45.123.118.156,WINDSCRIBE,tr.windscribe.com
 45.123.118.83,FROSTVPN,gw1.ist1.frostvpn.com
+45.123.119.11,WINDSCRIBE,tr.windscribe.com
 45.125.244.99,FROSTVPN,gw1.akl1.frostvpn.com
 45.125.247.107,SURFSHARK,au-syd.prod.surfshark.com
 45.125.247.109,SURFSHARK,au-syd.prod.surfshark.com
@@ -17714,6 +17942,7 @@ IP,PROVIDER,DOMAIN
 45.125.247.45,SURFSHARK,au-syd.prod.surfshark.com
 45.125.247.91,SURFSHARK,au-syd.prod.surfshark.com
 45.125.247.93,SURFSHARK,au-syd.prod.surfshark.com
+45.127.134.91,WINDSCRIBE,id.windscribe.com
 45.128.133.227,PROTONVPN,be-05.protonvpn.com
 45.128.133.228,PROTONVPN,be-06.protonvpn.com
 45.128.133.229,PROTONVPN,be-07.protonvpn.com
@@ -17912,6 +18141,7 @@ IP,PROVIDER,DOMAIN
 45.133.193.72,PIA,is.privacy.network
 45.133.193.91,PIA,is.privacy.network
 45.133.193.92,PIA,is.privacy.network
+45.133.194.235,WINDSCRIBE,kr.windscribe.com
 45.133.88.211,PIA,kazakhstan.privacy.network
 45.133.88.212,PIA,kazakhstan.privacy.network
 45.133.88.221,PIA,kazakhstan.privacy.network
@@ -18013,6 +18243,8 @@ IP,PROVIDER,DOMAIN
 45.141.154.71,PUREVPN,ukl2-ovpn-udp.pointtoserver.com
 45.141.154.72,PUREVPN,ukl2-ovpn-udp.pointtoserver.com
 45.141.154.73,PUREVPN,ukl2-udp.ptoserver.com
+45.141.156.11,WINDSCRIBE,ua.windscribe.com
+45.141.156.50,WINDSCRIBE,ua.windscribe.com
 45.149.206.203,NORDVPN,us5871.nordvpn.com
 45.149.206.235,NORDVPN,us5881.nordvpn.com
 45.149.206.251,NORDVPN,us5880.nordvpn.com
@@ -18662,6 +18894,7 @@ IP,PROVIDER,DOMAIN
 45.87.212.211,SURFSHARK,de-fra.prod.surfshark.com
 45.87.212.213,SURFSHARK,de-fra.prod.surfshark.com
 45.87.212.215,SURFSHARK,de-fra.prod.surfshark.com
+45.87.212.51,WINDSCRIBE,de.windscribe.com
 45.87.213.101,SURFSHARK,jp-tok.prod.surfshark.com
 45.87.213.103,SURFSHARK,jp-tok.prod.surfshark.com
 45.87.213.105,SURFSHARK,jp-tok.prod.surfshark.com
@@ -18711,6 +18944,7 @@ IP,PROVIDER,DOMAIN
 45.87.214.217,PROTONVPN,us-fl-31.protonvpn.com
 45.87.214.218,PROTONVPN,us-fl-32.protonvpn.com
 45.87.214.235,NORDVPN,us6474.nordvpn.com
+45.87.214.35,WINDSCRIBE,us-east.windscribe.com
 45.87.214.99,PROTONVPN,us-fl-33.protonvpn.com
 45.89.173.106,TORGUARD,lv.west.usa.torguardvpnaccess.com
 45.89.173.114,TORGUARD,lv.west.usa.torguardvpnaccess.com
@@ -18729,6 +18963,7 @@ IP,PROVIDER,DOMAIN
 45.89.174.103,SURFSHARK,fr-par.prod.surfshark.com
 45.89.174.115,NORDVPN,fr681.nordvpn.com
 45.89.174.123,NORDVPN,fr682.nordvpn.com
+45.89.174.35,WINDSCRIBE,fr.windscribe.com
 45.89.174.59,SURFSHARK,fr-par.prod.surfshark.com
 45.89.174.61,SURFSHARK,fr-par.prod.surfshark.com
 45.89.174.67,PROTONVPN,fr-29.protonvpn.com
@@ -18752,6 +18987,7 @@ IP,PROVIDER,DOMAIN
 45.9.238.30,SURFSHARK,ua-iev.prod.surfshark.com
 45.9.238.38,SURFSHARK,ua-iev.prod.surfshark.com
 45.9.238.47,SURFSHARK,ua-iev.prod.surfshark.com
+45.9.248.3,WINDSCRIBE,wf-uk.windscribe.com
 45.9.249.158,TORGUARD,uae.torguardvpnaccess.com
 45.9.249.238,TORGUARD,uae.torguardvpnaccess.com
 45.9.249.243,SURFSHARK,ae-dub.prod.surfshark.com
@@ -18812,6 +19048,7 @@ IP,PROVIDER,DOMAIN
 46.166.142.220,PROTONVPN,nl-free-01.protonvpn.com
 46.166.142.221,PROTONVPN,nl-free-02.protonvpn.com
 46.166.142.222,PROTONVPN,nl-free-02.protonvpn.com
+46.166.143.98,WINDSCRIBE,nl.windscribe.com
 46.166.182.32,PROTONVPN,nl-free-06.protonvpn.com
 46.166.182.33,PROTONVPN,nl-free-06.protonvpn.com
 46.166.182.34,PROTONVPN,nl-free-06.protonvpn.com
@@ -18838,6 +19075,7 @@ IP,PROVIDER,DOMAIN
 46.20.152.121,PROTONVPN,tr-14.protonvpn.com
 46.20.152.122,PROTONVPN,tr-15.protonvpn.com
 46.20.152.123,PROTONVPN,tr-16.protonvpn.com
+46.22.211.251,WINDSCRIBE,ee.windscribe.com
 46.23.72.98,FROSTVPN,gw1.ams2.frostvpn.com
 46.23.78.24,TORGUARD,nl.torguardvpnaccess.com
 46.23.78.25,TORGUARD,nl.torguardvpnaccess.com
@@ -18919,6 +19157,7 @@ IP,PROVIDER,DOMAIN
 5.101.174.195,NORDVPN,uk1910.nordvpn.com
 5.104.108.10,CRYPTOSTORM,balancer.cstorm.is
 5.104.79.187,NORDVPN,us5578.nordvpn.com
+5.133.11.116,WINDSCRIBE,pl.windscribe.com
 5.133.11.136,ANONINE,pl.anonine.net
 5.133.11.137,ANONINE,pl.anonine.net
 5.133.11.138,ANONINE,pl.anonine.net
@@ -19233,6 +19472,7 @@ IP,PROVIDER,DOMAIN
 5.181.235.35,NORDVPN,jp553.nordvpn.com
 5.181.235.43,NORDVPN,jp554.nordvpn.com
 5.181.235.51,NORDVPN,jp555.nordvpn.com
+5.181.235.67,WINDSCRIBE,wf-jp.windscribe.com
 5.181.235.83,NORDVPN,jp517.nordvpn.com
 5.181.235.99,PUREVPN,jp-ikev.ptoserver.com
 5.183.92.103,IPVANISH,fra-a15.ipvanish.com
@@ -19603,10 +19843,16 @@ IP,PROVIDER,DOMAIN
 5.254.77.8,PUREVPN,usva2-auto-udp.ptoserver.com
 5.254.77.9,PUREVPN,usva2-auto-udp.ptoserver.com
 5.254.79.100,PUREVPN,usfl2-tcp.ptoserver.com
+5.254.79.101,PUREVPN,usfl2-udp.ptoserver.com
+5.254.79.102,PUREVPN,usfl2-udp.ptoserver.com
+5.254.79.114,PUREVPN,usfl2-udp.ptoserver.com
+5.254.79.115,PUREVPN,usfl2-udp.ptoserver.com
+5.254.79.116,PUREVPN,usfl2-udp.ptoserver.com
 5.254.79.177,PUREVPN,usfl2-auto-tcp.ptoserver.com
 5.254.79.178,PUREVPN,usfl2-auto-udp.ptoserver.com
 5.254.79.180,PUREVPN,usfl2-auto-udp.ptoserver.com
 5.254.79.181,PUREVPN,usfl2-auto-udp.ptoserver.com
+5.254.79.98,PUREVPN,usfl2-udp.ptoserver.com
 5.254.79.99,PUREVPN,usfl2-tcp.ptoserver.com
 5.254.82.226,PUREVPN,de2-ovpn-tcp.pointtoserver.com
 5.254.82.51,PUREVPN,de2-ovpn-tcp.pointtoserver.com
@@ -20333,6 +20579,7 @@ IP,PROVIDER,DOMAIN
 64.120.114.177,TUNNELBEAR,hk.lazerpenguin.com
 64.120.114.178,TUNNELBEAR,hk.lazerpenguin.com
 64.120.121.23,NORDVPN,hk230.nordvpn.com
+64.120.2.174,WINDSCRIBE,us-west.windscribe.com
 64.120.5.252,CRYPTOSTORM,seattle.cstorm.is
 64.120.88.149,NORDVPN,hk225.nordvpn.com
 64.120.88.152,NORDVPN,hk226.nordvpn.com
@@ -21213,6 +21460,7 @@ IP,PROVIDER,DOMAIN
 66.115.176.212,NORDVPN,us5326.nordvpn.com
 66.115.176.215,NORDVPN,us5327.nordvpn.com
 66.115.176.218,NORDVPN,us5328.nordvpn.com
+66.115.176.3,WINDSCRIBE,us-west.windscribe.com
 66.115.177.131,SURFSHARK,us-dal.prod.surfshark.com
 66.115.177.133,SURFSHARK,us-dal.prod.surfshark.com
 66.115.177.136,SURFSHARK,us-dal.prod.surfshark.com
@@ -21276,12 +21524,14 @@ IP,PROVIDER,DOMAIN
 66.55.156.251,NORDVPN,us2914.nordvpn.com
 66.63.172.154,TORGUARD,la.west.usa.torguardvpnaccess.com
 66.63.172.18,TORGUARD,la.west.usa.torguardvpnaccess.com
+66.70.148.80,WINDSCRIBE,ca.windscribe.com
 67.201.33.54,HIDEMYASS,ca.us.hma.rocks
 67.207.85.75,TUNNELBEAR,us.lazerpenguin.com
 67.21.32.104,NORDVPN,us6051.nordvpn.com
 67.21.32.109,NORDVPN,us6052.nordvpn.com
 67.21.32.114,NORDVPN,us5441.nordvpn.com
 67.21.32.119,NORDVPN,us5477.nordvpn.com
+67.21.32.145,WINDSCRIBE,us-east.windscribe.com
 67.21.32.24,NORDVPN,us5478.nordvpn.com
 67.21.32.29,NORDVPN,us5479.nordvpn.com
 67.21.32.34,NORDVPN,us5712.nordvpn.com
@@ -21358,6 +21608,7 @@ IP,PROVIDER,DOMAIN
 67.215.241.26,TORGUARD,la.west.usa.torguardvpnaccess.com
 67.215.244.186,TORGUARD,la.west.usa.torguardvpnaccess.com
 67.215.246.50,TORGUARD,la.west.usa.torguardvpnaccess.com
+67.219.146.67,WINDSCRIBE,us-east.windscribe.com
 67.231.16.203,ANONINE,ca-west.anonine.net
 67.231.16.204,ANONINE,ca-west.anonine.net
 67.231.16.205,ANONINE,ca-west.anonine.net
@@ -21389,8 +21640,12 @@ IP,PROVIDER,DOMAIN
 68.183.87.181,TUNNELBEAR,in.lazerpenguin.com
 68.183.99.252,TUNNELBEAR,us.lazerpenguin.com
 68.232.180.194,NORDVPN,us4952.nordvpn.com
+68.235.35.12,WINDSCRIBE,us-east.windscribe.com
 68.235.35.123,AIRVPN,kruger.airservers.org
+68.235.35.172,WINDSCRIBE,us-east.windscribe.com
+68.235.43.204,WINDSCRIBE,us-east.windscribe.com
 68.235.48.107,AIRVPN,fang.airservers.org
+68.235.50.227,WINDSCRIBE,us-east.windscribe.com
 68.235.52.35,AIRVPN,sneden.airservers.org
 68.71.244.131,SURFSHARK,ca-tor.prod.surfshark.com
 68.71.244.134,SURFSHARK,ca-tor.prod.surfshark.com
@@ -21702,6 +21957,8 @@ IP,PROVIDER,DOMAIN
 72.11.148.234,TORGUARD,la.west.usa.torguardvpnaccess.com
 72.11.148.250,TORGUARD,la.west.usa.torguardvpnaccess.com
 72.11.150.194,TORGUARD,la.west.usa.torguardvpnaccess.com
+72.11.157.35,WINDSCRIBE,nl.windscribe.com
+72.11.157.67,WINDSCRIBE,nl.windscribe.com
 74.115.214.129,ANONINE,us-va.anonine.net
 74.115.214.130,ANONINE,us-va.anonine.net
 74.115.214.131,ANONINE,us-va.anonine.net
@@ -21794,6 +22051,7 @@ IP,PROVIDER,DOMAIN
 76.164.205.194,HIDEMYASS,nv.us.hma.rocks
 76.164.224.211,HIDEMYASS,nv.us.hma.rocks
 76.164.225.75,HIDEMYASS,nv.us.hma.rocks
+76.72.175.99,WINDSCRIBE,us-east.windscribe.com
 77.234.43.130,HIDEMYASS,london.gb.hma.rocks
 77.234.43.166,HIDEMYASS,london.gb.hma.rocks
 77.234.43.175,HIDEMYASS,london.gb.hma.rocks
@@ -21840,6 +22098,7 @@ IP,PROVIDER,DOMAIN
 77.74.195.22,FROSTVPN,gw1.cvt1.frostvpn.com
 77.74.197.195,NORDVPN,uk1921.nordvpn.com
 77.75.120.131,NORDVPN,uk1911.nordvpn.com
+77.81.136.99,WINDSCRIBE,wf-us.windscribe.com
 77.81.139.163,NORDVPN,ie118.nordvpn.com
 77.81.139.171,NORDVPN,ie119.nordvpn.com
 77.81.139.179,NORDVPN,ie120.nordvpn.com
@@ -21882,6 +22141,7 @@ IP,PROVIDER,DOMAIN
 77.81.191.3,NORDVPN,uk812.nordvpn.com
 77.81.191.4,NORDVPN,uk870.nordvpn.com
 77.92.75.144,FROSTVPN,gw2.lhr1.frostvpn.com
+78.108.38.155,WINDSCRIBE,gr.windscribe.com
 78.110.166.51,ANONINE,uk-ln.anonine.net
 78.110.166.53,ANONINE,uk-ln.anonine.net
 78.110.166.54,ANONINE,uk-ln.anonine.net
@@ -21993,6 +22253,7 @@ IP,PROVIDER,DOMAIN
 79.110.55.34,TORGUARD,sk.torguardvpnaccess.com
 79.137.70.87,TIGERVPN,war.tigervpn.com
 79.142.64.51,PUREVPN,nl2-ovpn-tcp.pointtoserver.com
+79.142.76.198,WINDSCRIBE,se.windscribe.com
 79.142.76.243,AIRVPN,copernicus.airservers.org
 79.142.76.71,PROTONVPN,se-09.protonvpn.com
 79.142.76.72,PROTONVPN,se-10.protonvpn.com
@@ -22001,6 +22262,7 @@ IP,PROVIDER,DOMAIN
 79.143.191.166,AIRVPN,mesarthim.airservers.org
 79.143.191.231,SURFSHARK,de-muc.prod.surfshark.com
 79.143.191.233,SURFSHARK,de-muc.prod.surfshark.com
+79.98.131.43,WINDSCRIBE,tr.windscribe.com
 80.179.42.29,NORDVPN,il52.nordvpn.com
 80.246.28.10,NAMECHEAP,tia-c05.vpn.wlvpn.com
 80.246.28.11,IPVANISH,tia-c02.ipvanish.com
@@ -22147,6 +22409,7 @@ IP,PROVIDER,DOMAIN
 81.19.223.4,NORDVPN,uk880.nordvpn.com
 81.4.102.9,FROSTVPN,gw1.ams1.frostvpn.com
 81.92.200.117,NORDVPN,uk2067.nordvpn.com
+81.92.200.85,WINDSCRIBE,wf-uk.windscribe.com
 81.92.202.11,NORDVPN,uk1784.nordvpn.com
 81.92.202.15,NORDVPN,uk1867.nordvpn.com
 81.92.202.20,NORDVPN,uk2065.nordvpn.com
@@ -22200,6 +22463,7 @@ IP,PROVIDER,DOMAIN
 82.102.18.243,NORDVPN,fr665.nordvpn.com
 82.102.18.252,NORDVPN,fr555.nordvpn.com
 82.102.18.3,NORDVPN,fr621.nordvpn.com
+82.102.18.35,WINDSCRIBE,fr.windscribe.com
 82.102.18.99,NORDVPN,fr719.nordvpn.com
 82.102.19.123,NORDVPN,be162.nordvpn.com
 82.102.19.131,NORDVPN,be152.nordvpn.com
@@ -22264,6 +22528,7 @@ IP,PROVIDER,DOMAIN
 82.102.24.232,TUNNELBEAR,ch.lazerpenguin.com
 82.102.24.233,TUNNELBEAR,ch.lazerpenguin.com
 82.102.25.11,NORDVPN,sg501.nordvpn.com
+82.102.25.131,WINDSCRIBE,sg.windscribe.com
 82.102.25.2,TORGUARD,singp.torguardvpnaccess.com
 82.102.25.219,NORDVPN,sg486.nordvpn.com
 82.102.25.226,TORGUARD,singp.torguardvpnaccess.com
@@ -22313,6 +22578,7 @@ IP,PROVIDER,DOMAIN
 82.102.30.212,PIA,us3.privacy.network
 82.102.30.221,PIA,us3.privacy.network
 82.102.30.222,PIA,us3.privacy.network
+82.102.30.67,WINDSCRIBE,us-west.windscribe.com
 82.102.31.101,PIA,us-lasvegas.privacy.network
 82.102.31.102,PIA,us-lasvegas.privacy.network
 82.102.31.121,PIA,us-lasvegas.privacy.network
@@ -22329,6 +22595,10 @@ IP,PROVIDER,DOMAIN
 82.145.32.68,ANONINE,uk-ln.anonine.net
 82.145.32.69,ANONINE,uk-ln.anonine.net
 82.145.32.70,ANONINE,uk-ln.anonine.net
+82.145.56.104,NAMECHEAP,lhr-c01.vpn.wlvpn.com
+82.145.56.110,NAMECHEAP,lhr-c02.vpn.wlvpn.com
+82.145.56.116,NAMECHEAP,lhr-c03.vpn.wlvpn.com
+82.145.56.120,NAMECHEAP,lhr-c04.vpn.wlvpn.com
 82.163.72.124,CRYPTOSTORM,balancer.cstorm.is
 82.163.72.127,CRYPTOSTORM,england.cstorm.is
 82.163.72.128,CRYPTOSTORM,england.cstorm.is
@@ -22339,6 +22609,7 @@ IP,PROVIDER,DOMAIN
 82.221.128.156,SURFSHARK,is-rkv.prod.surfshark.com
 82.221.128.166,SURFSHARK,is-rkv.prod.surfshark.com
 82.221.128.169,SURFSHARK,is-rkv.prod.surfshark.com
+82.221.139.38,WINDSCRIBE,is.windscribe.com
 82.221.143.241,SURFSHARK,is-rkv.prod.surfshark.com
 82.221.143.243,SURFSHARK,is-rkv.prod.surfshark.com
 82.221.143.62,SURFSHARK,is-rkv.prod.surfshark.com
@@ -22467,6 +22738,8 @@ IP,PROVIDER,DOMAIN
 84.17.42.118,NORDVPN,fr577.nordvpn.com
 84.17.42.119,NORDVPN,fr578.nordvpn.com
 84.17.42.130,NORDVPN,fr595.nordvpn.com
+84.17.42.2,WINDSCRIBE,fr.windscribe.com
+84.17.42.34,WINDSCRIBE,fr.windscribe.com
 84.17.42.98,NORDVPN,fr674.nordvpn.com
 84.17.43.103,HIDEMYASS,fr.hma.rocks
 84.17.43.116,HIDEMYASS,fr.hma.rocks
@@ -22524,6 +22797,7 @@ IP,PROVIDER,DOMAIN
 84.17.46.134,HIDEMYASS,nl.hma.rocks
 84.17.46.158,HIDEMYASS,nl.hma.rocks
 84.17.46.182,HIDEMYASS,nl.hma.rocks
+84.17.46.2,WINDSCRIBE,nl.windscribe.com
 84.17.46.206,HIDEMYASS,nl.hma.rocks
 84.17.46.251,HIDEMYASS,nl.hma.rocks
 84.17.52.141,HIDEMYASS,ch.hma.rocks
@@ -22538,6 +22812,7 @@ IP,PROVIDER,DOMAIN
 84.17.53.166,SURFSHARK,ch-zur.prod.surfshark.com
 84.17.53.168,SURFSHARK,ch-zur.prod.surfshark.com
 84.17.53.199,NORDVPN,ch306.nordvpn.com
+84.17.53.2,WINDSCRIBE,ch.windscribe.com
 84.17.53.204,NORDVPN,ch307.nordvpn.com
 84.17.53.208,SURFSHARK,ch-zur.prod.surfshark.com
 84.17.53.210,SURFSHARK,ch-zur.prod.surfshark.com
@@ -22559,6 +22834,8 @@ IP,PROVIDER,DOMAIN
 84.17.55.134,SURFSHARK,pl-waw.prod.surfshark.com
 84.17.55.26,HIDEMYASS,pl.hma.rocks
 84.17.55.82,NORDVPN,pl133.nordvpn.com
+84.17.55.98,WINDSCRIBE,pl.windscribe.com
+84.17.57.114,WINDSCRIBE,hk.windscribe.com
 84.17.57.139,NORDVPN,hk222.nordvpn.com
 84.17.57.148,SURFSHARK,hk-hkg.prod.surfshark.com
 84.17.57.164,NORDVPN,hk221.nordvpn.com
@@ -22600,6 +22877,7 @@ IP,PROVIDER,DOMAIN
 84.17.59.155,NORDVPN,it183.nordvpn.com
 84.17.59.45,HIDEMYASS,it.hma.rocks
 84.17.59.60,HIDEMYASS,it.hma.rocks
+84.17.59.66,WINDSCRIBE,it.windscribe.com
 84.17.60.211,PIA,france.privacy.network
 84.17.60.212,PIA,france.privacy.network
 84.17.60.235,SURFSHARK,fr-par.prod.surfshark.com
@@ -22747,9 +23025,11 @@ IP,PROVIDER,DOMAIN
 85.10.51.85,NORDVPN,hr28.nordvpn.com
 85.10.51.9,NORDVPN,hr26.nordvpn.com
 85.10.56.103,NORDVPN,hr32.nordvpn.com
+85.10.56.129,WINDSCRIBE,hr.windscribe.com
 85.10.56.190,SURFSHARK,hr-zag.prod.surfshark.com
 85.10.56.192,SURFSHARK,hr-zag.prod.surfshark.com
 85.10.56.196,NORDVPN,hr27.nordvpn.com
+85.132.61.123,WINDSCRIBE,az.windscribe.com
 85.159.237.73,PROTONVPN,nl-49.protonvpn.com
 85.159.237.74,PROTONVPN,nl-50.protonvpn.com
 85.159.237.75,PROTONVPN,nl-51.protonvpn.com
@@ -23014,6 +23294,7 @@ IP,PROVIDER,DOMAIN
 85.206.163.150,PROTONVPN,lt-06.protonvpn.com
 85.206.163.151,PROTONVPN,lt-07.protonvpn.com
 85.206.163.152,PROTONVPN,lt-08.protonvpn.com
+85.206.163.225,WINDSCRIBE,lt.windscribe.com
 85.206.163.242,PUREVPN,lt-ipsec.ptoserver.com
 85.206.165.112,PIA,lt.privateinternetaccess.com
 85.206.165.146,PUREVPN,lt2-tcp.ptoserver.com
@@ -23028,6 +23309,7 @@ IP,PROVIDER,DOMAIN
 85.208.72.234,NORDVPN,de1002.nordvpn.com
 85.208.72.242,NORDVPN,de1005.nordvpn.com
 85.208.72.250,NORDVPN,de1006.nordvpn.com
+85.254.72.23,WINDSCRIBE,lv.windscribe.com
 86.105.25.69,PIA,ro.privateinternetaccess.com
 86.105.25.70,PIA,ro.privateinternetaccess.com
 86.105.25.74,PIA,ro.privateinternetaccess.com
@@ -23122,6 +23404,7 @@ IP,PROVIDER,DOMAIN
 86.106.87.248,NORDVPN,us5331.nordvpn.com
 86.106.87.251,NORDVPN,us5332.nordvpn.com
 86.106.87.253,NORDVPN,us5333.nordvpn.com
+86.106.87.83,WINDSCRIBE,us-east.windscribe.com
 86.106.90.100,PROTONVPN,ca-22.protonvpn.com
 86.106.90.101,PROTONVPN,ca-23.protonvpn.com
 86.106.90.102,PROTONVPN,ca-24.protonvpn.com
@@ -23192,6 +23475,7 @@ IP,PROVIDER,DOMAIN
 87.101.92.87,NORDVPN,ca1047.nordvpn.com
 87.101.92.97,NORDVPN,ca1048.nordvpn.com
 87.101.93.11,NORDVPN,us6167.nordvpn.com
+87.101.94.195,WINDSCRIBE,it.windscribe.com
 87.101.94.211,SURFSHARK,it-rom.prod.surfshark.com
 87.101.94.213,SURFSHARK,it-rom.prod.surfshark.com
 87.101.94.215,SURFSHARK,it-rom.prod.surfshark.com
@@ -23328,6 +23612,7 @@ IP,PROVIDER,DOMAIN
 88.202.186.171,CRYPTOSTORM,england.cstorm.is
 88.202.231.87,TORGUARD,uk.torguardvpnaccess.com
 88.202.231.97,TORGUARD,uk.torguardvpnaccess.com
+89.111.33.220,WINDSCRIBE,lv.windscribe.com
 89.163.131.159,ANONINE,de-du.anonine.net
 89.163.131.160,ANONINE,de-du.anonine.net
 89.163.131.165,ANONINE,de-du.anonine.net
@@ -23338,6 +23623,7 @@ IP,PROVIDER,DOMAIN
 89.164.99.106,NORDVPN,hr31.nordvpn.com
 89.164.99.109,SURFSHARK,hr-zag.prod.surfshark.com
 89.164.99.111,SURFSHARK,hr-zag.prod.surfshark.com
+89.187.161.114,WINDSCRIBE,jp.windscribe.com
 89.187.161.144,NORDVPN,jp556.nordvpn.com
 89.187.161.149,NORDVPN,jp557.nordvpn.com
 89.187.161.190,NORDVPN,jp575.nordvpn.com
@@ -23391,6 +23677,7 @@ IP,PROVIDER,DOMAIN
 89.187.165.156,NORDVPN,ch263.nordvpn.com
 89.187.165.179,HIDEMYASS,ch.hma.rocks
 89.187.165.73,NORDVPN,ch292.nordvpn.com
+89.187.165.98,WINDSCRIBE,ch.windscribe.com
 89.187.168.197,NORDVPN,at92.nordvpn.com
 89.187.168.2,PIA,austria.privacy.network
 89.187.168.202,NORDVPN,at93.nordvpn.com
@@ -23406,6 +23693,7 @@ IP,PROVIDER,DOMAIN
 89.187.168.54,SURFSHARK,at-vie.prod.surfshark.com
 89.187.168.56,SURFSHARK,at-vie.prod.surfshark.com
 89.187.168.6,PIA,austria.privateinternetaccess.com
+89.187.168.66,WINDSCRIBE,at.windscribe.com
 89.187.169.104,SURFSHARK,de-fra.prod.surfshark.com
 89.187.169.119,SURFSHARK,de-fra.prod.surfshark.com
 89.187.170.158,PROTONVPN,us-ga-21.protonvpn.com
@@ -23525,6 +23813,7 @@ IP,PROVIDER,DOMAIN
 89.187.183.79,NORDVPN,us6564.nordvpn.com
 89.187.183.84,NORDVPN,us6565.nordvpn.com
 89.187.183.88,NORDVPN,us6615.nordvpn.com
+89.187.185.34,WINDSCRIBE,us-west.windscribe.com
 89.187.185.86,NORDVPN,us2945.nordvpn.com
 89.187.185.97,NORDVPN,us2946.nordvpn.com
 89.187.187.142,NORDVPN,us6669.nordvpn.com
@@ -23541,6 +23830,7 @@ IP,PROVIDER,DOMAIN
 89.187.187.83,SURFSHARK,us-lax.prod.surfshark.com
 89.187.187.86,SURFSHARK,us-lax.prod.surfshark.com
 89.187.187.88,SURFSHARK,us-lax.prod.surfshark.com
+89.187.187.98,WINDSCRIBE,us-west.windscribe.com
 89.187.189.183,NORDVPN,cz105.nordvpn.com
 89.187.189.186,NORDVPN,cz95.nordvpn.com
 89.187.189.195,NORDVPN,cz113.nordvpn.com
@@ -23604,6 +23894,7 @@ IP,PROVIDER,DOMAIN
 89.238.178.206,TORGUARD,sp.torguardvpnaccess.com
 89.238.178.211,NORDVPN,es189.nordvpn.com
 89.238.178.234,TORGUARD,sp.torguardvpnaccess.com
+89.238.178.43,WINDSCRIBE,es.windscribe.com
 89.238.185.107,NORDVPN,nl785.nordvpn.com
 89.238.185.115,NORDVPN,nl788.nordvpn.com
 89.238.185.123,NORDVPN,nl776.nordvpn.com
@@ -23627,6 +23918,7 @@ IP,PROVIDER,DOMAIN
 89.249.64.251,NORDVPN,de816.nordvpn.com
 89.249.65.107,NORDVPN,de918.nordvpn.com
 89.249.65.115,NORDVPN,de919.nordvpn.com
+89.249.65.19,WINDSCRIBE,de.windscribe.com
 89.249.65.67,NORDVPN,de914.nordvpn.com
 89.249.65.75,NORDVPN,de915.nordvpn.com
 89.249.65.83,NORDVPN,de916.nordvpn.com
@@ -23672,10 +23964,12 @@ IP,PROVIDER,DOMAIN
 89.34.98.90,NORDVPN,uk2107.nordvpn.com
 89.34.98.94,NORDVPN,uk2106.nordvpn.com
 89.34.98.98,NORDVPN,uk2105.nordvpn.com
+89.34.99.102,NORDVPN,uk2061.nordvpn.com
 89.34.99.106,NORDVPN,uk2062.nordvpn.com
 89.34.99.131,NORDVPN,uk871.nordvpn.com
 89.34.99.76,NORDVPN,uk1929.nordvpn.com
 89.34.99.83,SURFSHARK,uk-lon.prod.surfshark.com
+89.34.99.98,NORDVPN,uk2063.nordvpn.com
 89.35.28.131,NORDVPN,uk765.nordvpn.com
 89.35.28.132,NORDVPN,uk766.nordvpn.com
 89.35.29.71,SURFSHARK,uk-lon.prod.surfshark.com
@@ -23739,6 +24033,7 @@ IP,PROVIDER,DOMAIN
 89.39.107.209,PROTONVPN,nl-10.protonvpn.com
 89.39.107.210,PROTONVPN,nl-11.protonvpn.com
 89.39.107.211,PROTONVPN,nl-12.protonvpn.com
+89.40.182.3,WINDSCRIBE,it.windscribe.com
 89.40.182.68,PUREVPN,it2-tcp.ptoserver.com
 89.40.182.69,PUREVPN,it2-tcp.ptoserver.com
 89.40.182.70,PUREVPN,it2-udp.ptoserver.com
@@ -23842,6 +24137,7 @@ IP,PROVIDER,DOMAIN
 89.46.102.11,NORDVPN,ro64.nordvpn.com
 89.46.102.115,NORDVPN,ro68.nordvpn.com
 89.46.103.106,TORGUARD,ro.torguardvpnaccess.com
+89.46.103.147,WINDSCRIBE,ro.windscribe.com
 89.46.103.171,NORDVPN,ro67.nordvpn.com
 89.46.103.2,TORGUARD,ro.torguardvpnaccess.com
 89.46.223.100,SURFSHARK,nl-ams.prod.surfshark.com
@@ -23901,6 +24197,7 @@ IP,PROVIDER,DOMAIN
 89.47.234.6,NORDVPN,ca1075.nordvpn.com
 89.47.234.76,NORDVPN,ca1073.nordvpn.com
 89.47.234.9,NORDVPN,ca1076.nordvpn.com
+89.47.62.83,WINDSCRIBE,wf-uk.windscribe.com
 91.109.245.223,FROSTVPN,gw1.fra2.frostvpn.com
 91.132.0.202,AIRVPN,gliese.airservers.org
 91.132.136.100,TUNNELBEAR,ch.lazerpenguin.com
@@ -23999,6 +24296,7 @@ IP,PROVIDER,DOMAIN
 91.206.168.70,SURFSHARK,ar-bua.prod.surfshark.com
 91.206.168.72,SURFSHARK,ar-bua.prod.surfshark.com
 91.206.168.9,SURFSHARK,ar-bua.prod.surfshark.com
+91.207.102.147,WINDSCRIBE,ro.windscribe.com
 91.207.102.162,AIRVPN,alamak.airservers.org
 91.207.172.187,PROTONVPN,de-29.protonvpn.com
 91.207.172.188,PROTONVPN,de-30.protonvpn.com
@@ -24310,6 +24608,8 @@ IP,PROVIDER,DOMAIN
 94.242.225.132,PUREVPN,lu2-ovpn-tcp.pointtoserver.com
 94.242.253.51,TIGERVPN,lux.tigervpn.com
 94.242.253.64,FROSTVPN,gw1.lux1.frostvpn.com
+94.242.62.19,WINDSCRIBE,ru.windscribe.com
+94.242.62.67,WINDSCRIBE,ru.windscribe.com
 94.46.13.130,ANONINE,pt.anonine.net
 94.46.13.131,ANONINE,pt.anonine.net
 94.46.13.132,ANONINE,pt.anonine.net
@@ -24317,6 +24617,7 @@ IP,PROVIDER,DOMAIN
 94.46.13.134,ANONINE,pt.anonine.net
 94.46.13.135,ANONINE,pt.anonine.net
 94.46.13.166,NORDVPN,pt53.nordvpn.com
+94.46.13.215,WINDSCRIBE,pt.windscribe.com
 94.46.167.17,NORDVPN,pt62.nordvpn.com
 94.46.179.65,TORGUARD,por.torguardvpnaccess.com
 94.46.179.70,TORGUARD,por.torguardvpnaccess.com
@@ -24408,6 +24709,8 @@ IP,PROVIDER,DOMAIN
 95.174.67.242,TORGUARD,nl.torguardvpnaccess.com
 95.174.67.250,TORGUARD,nl.torguardvpnaccess.com
 95.211.156.153,ANONINE,nl.anonine.net
+95.213.193.195,WINDSCRIBE,ru.windscribe.com
+95.213.193.227,WINDSCRIBE,ru.windscribe.com
 95.57.207.200,SURFSHARK,kz-ura.prod.surfshark.com
 95.57.207.202,SURFSHARK,kz-ura.prod.surfshark.com
 95.57.207.204,SURFSHARK,kz-ura.prod.surfshark.com
