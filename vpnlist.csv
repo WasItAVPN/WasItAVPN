@@ -1547,7 +1547,9 @@ IP,PROVIDER,DOMAIN
 104.250.171.122,PUREVPN,si-ipsec.ptoserver.com
 104.250.171.123,PUREVPN,si2-tcp.ptoserver.com
 104.250.171.124,PUREVPN,si2-tcp.ptoserver.com
+104.250.171.125,PUREVPN,cz.pointtoserver.com
 104.250.171.126,PUREVPN,si1.pointtoserver.com
+104.250.171.4,PUREVPN,sk1-ovpn-tcp.pointtoserver.com
 104.250.171.6,PUREVPN,si2-tcp.ptoserver.com
 104.250.176.121,PUREVPN,kh-ipsec.ptoserver.com
 104.250.176.4,PUREVPN,kh1.pointtoserver.com
@@ -2397,6 +2399,7 @@ IP,PROVIDER,DOMAIN
 128.199.113.84,TUNNELBEAR,sg.lazerpenguin.com
 128.199.113.92,TUNNELBEAR,sg.lazerpenguin.com
 128.199.114.202,TUNNELBEAR,sg.lazerpenguin.com
+128.199.17.28,TUNNELBEAR,in.lazerpenguin.com
 128.199.171.180,TUNNELBEAR,sg.lazerpenguin.com
 128.199.193.35,SURFSHARK,sg-in.prod.surfshark.com
 128.199.21.70,TUNNELBEAR,in.lazerpenguin.com
@@ -2536,6 +2539,7 @@ IP,PROVIDER,DOMAIN
 134.122.37.206,TUNNELBEAR,ca.lazerpenguin.com
 134.122.37.230,TUNNELBEAR,ca.lazerpenguin.com
 134.122.37.253,TUNNELBEAR,ca.lazerpenguin.com
+134.122.37.44,TUNNELBEAR,ca.lazerpenguin.com
 134.122.37.45,TUNNELBEAR,ca.lazerpenguin.com
 134.122.37.48,TUNNELBEAR,ca.lazerpenguin.com
 134.122.37.53,TUNNELBEAR,ca.lazerpenguin.com
@@ -2595,6 +2599,7 @@ IP,PROVIDER,DOMAIN
 134.122.45.231,TUNNELBEAR,ca.lazerpenguin.com
 134.122.45.3,TUNNELBEAR,ca.lazerpenguin.com
 134.122.45.91,TUNNELBEAR,ca.lazerpenguin.com
+134.122.46.115,TUNNELBEAR,ca.lazerpenguin.com
 134.122.46.134,TUNNELBEAR,ca.lazerpenguin.com
 134.122.46.187,TUNNELBEAR,ca.lazerpenguin.com
 134.122.46.19,TUNNELBEAR,ca.lazerpenguin.com
@@ -3345,8 +3350,10 @@ IP,PROVIDER,DOMAIN
 143.110.176.241,TUNNELBEAR,in.lazerpenguin.com
 143.110.176.247,TUNNELBEAR,in.lazerpenguin.com
 143.110.182.43,TUNNELBEAR,in.lazerpenguin.com
+143.110.184.186,TUNNELBEAR,in.lazerpenguin.com
 143.110.184.83,TUNNELBEAR,in.lazerpenguin.com
 143.110.185.111,TUNNELBEAR,in.lazerpenguin.com
+143.110.186.227,TUNNELBEAR,in.lazerpenguin.com
 143.110.189.122,TUNNELBEAR,in.lazerpenguin.com
 143.110.189.124,TUNNELBEAR,in.lazerpenguin.com
 143.110.189.76,TUNNELBEAR,in.lazerpenguin.com
@@ -3428,6 +3435,9 @@ IP,PROVIDER,DOMAIN
 143.110.244.169,TUNNELBEAR,in.lazerpenguin.com
 143.110.244.172,TUNNELBEAR,in.lazerpenguin.com
 143.110.248.47,TUNNELBEAR,in.lazerpenguin.com
+143.110.250.26,TUNNELBEAR,in.lazerpenguin.com
+143.110.250.27,TUNNELBEAR,in.lazerpenguin.com
+143.110.250.44,TUNNELBEAR,in.lazerpenguin.com
 143.202.160.138,ANONINE,cr.anonine.net
 143.202.160.139,ANONINE,cr.anonine.net
 143.202.160.140,ANONINE,cr.anonine.net
@@ -4210,6 +4220,7 @@ IP,PROVIDER,DOMAIN
 151.106.8.44,CYBERGHOSTVPN,97-1-fr.cg-dialup.net
 151.236.14.29,FROSTVPN,gw1.ams3.frostvpn.com
 151.236.30.109,SAFERVPN,at1.safervpn.net
+151.80.244.188,PUREVPN,fr-l2tp.ptoserver.com
 152.89.160.115,SURFSHARK,rs-beg.prod.surfshark.com
 152.89.160.117,SURFSHARK,rs-beg.prod.surfshark.com
 152.89.160.130,AIRVPN,alnitak.airservers.org
@@ -5287,6 +5298,7 @@ IP,PROVIDER,DOMAIN
 156.146.37.202,PIA,us-newyorkcity.privacy.network
 156.146.37.211,PIA,us-newyorkcity.privacy.network
 156.146.37.212,PIA,us-newyorkcity.privacy.network
+156.146.37.221,PIA,us-newyorkcity.privacy.network
 156.146.37.231,PIA,us-newyorkcity.privacy.network
 156.146.37.232,PIA,us-newyorkcity.privacy.network
 156.146.37.241,PIA,us-newyorkcity.privacy.network
@@ -5373,6 +5385,7 @@ IP,PROVIDER,DOMAIN
 156.146.43.206,NORDVPN,us6248.nordvpn.com
 156.146.43.21,PIA,us-florida.privacy.network
 156.146.43.22,PIA,us-florida.privacy.network
+156.146.43.31,PIA,us-florida.privacy.network
 156.146.43.32,PIA,us-florida.privacy.network
 156.146.43.41,PIA,us-florida.privacy.network
 156.146.43.42,PIA,us-florida.privacy.network
@@ -5386,8 +5399,22 @@ IP,PROVIDER,DOMAIN
 156.146.43.91,PIA,us-florida.privacy.network
 156.146.43.92,PIA,us-florida.privacy.network
 156.146.46.1,PIA,us-atlanta.privateinternetaccess.com
+156.146.46.101,PIA,us-atlanta.privacy.network
+156.146.46.102,PIA,us-atlanta.privacy.network
+156.146.46.111,PIA,us-atlanta.privacy.network
+156.146.46.112,PIA,us-atlanta.privacy.network
+156.146.46.121,PIA,us-atlanta.privacy.network
+156.146.46.122,PIA,us-atlanta.privacy.network
+156.146.46.131,PIA,us-atlanta.privacy.network
+156.146.46.132,PIA,us-atlanta.privacy.network
 156.146.46.134,PIA,us-atlanta.privateinternetaccess.com
 156.146.46.198,PIA,us-atlanta.privateinternetaccess.com
+156.146.46.71,PIA,us-atlanta.privacy.network
+156.146.46.72,PIA,us-atlanta.privacy.network
+156.146.46.81,PIA,us-atlanta.privacy.network
+156.146.46.82,PIA,us-atlanta.privacy.network
+156.146.46.91,PIA,us-atlanta.privacy.network
+156.146.46.92,PIA,us-atlanta.privacy.network
 156.146.47.11,PIA,us-atlanta.privateinternetaccess.com
 156.146.48.11,PIA,us-seattle.privacy.network
 156.146.48.12,PIA,us-seattle.privacy.network
@@ -5696,6 +5723,7 @@ IP,PROVIDER,DOMAIN
 156.96.59.102,WINDSCRIBE,us-east.windscribe.com
 157.230.120.18,TUNNELBEAR,de.lazerpenguin.com
 157.230.120.7,TUNNELBEAR,de.lazerpenguin.com
+157.230.17.201,TUNNELBEAR,de.lazerpenguin.com
 157.230.183.234,TUNNELBEAR,us.lazerpenguin.com
 157.230.183.249,TUNNELBEAR,us.lazerpenguin.com
 157.230.183.251,TUNNELBEAR,us.lazerpenguin.com
@@ -5712,8 +5740,12 @@ IP,PROVIDER,DOMAIN
 157.230.227.232,TUNNELBEAR,us.lazerpenguin.com
 157.230.227.43,TUNNELBEAR,us.lazerpenguin.com
 157.230.227.55,TUNNELBEAR,us.lazerpenguin.com
+157.230.23.155,TUNNELBEAR,de.lazerpenguin.com
+157.230.23.241,TUNNELBEAR,de.lazerpenguin.com
 157.230.231.4,TUNNELBEAR,us.lazerpenguin.com
 157.230.3.76,TUNNELBEAR,us.lazerpenguin.com
+157.230.30.160,TUNNELBEAR,de.lazerpenguin.com
+157.230.30.52,TUNNELBEAR,de.lazerpenguin.com
 157.230.31.220,TUNNELBEAR,de.lazerpenguin.com
 157.230.45.147,TORGUARD,singp.torguardvpnaccess.com
 157.230.49.253,TUNNELBEAR,us.lazerpenguin.com
@@ -5723,6 +5755,8 @@ IP,PROVIDER,DOMAIN
 157.230.7.169,TUNNELBEAR,us.lazerpenguin.com
 157.230.81.22,TUNNELBEAR,us.lazerpenguin.com
 157.230.87.4,TUNNELBEAR,us.lazerpenguin.com
+157.230.96.115,TUNNELBEAR,de.lazerpenguin.com
+157.230.96.57,TUNNELBEAR,de.lazerpenguin.com
 157.245.105.127,TUNNELBEAR,in.lazerpenguin.com
 157.245.105.66,TUNNELBEAR,in.lazerpenguin.com
 157.245.105.78,TUNNELBEAR,in.lazerpenguin.com
@@ -5767,6 +5801,7 @@ IP,PROVIDER,DOMAIN
 157.245.73.252,TUNNELBEAR,nl.lazerpenguin.com
 157.245.75.64,TUNNELBEAR,nl.lazerpenguin.com
 157.245.76.42,TUNNELBEAR,nl.lazerpenguin.com
+157.245.76.83,TUNNELBEAR,nl.lazerpenguin.com
 157.245.77.126,TUNNELBEAR,nl.lazerpenguin.com
 157.245.77.13,TUNNELBEAR,nl.lazerpenguin.com
 157.245.77.37,TUNNELBEAR,nl.lazerpenguin.com
@@ -5962,6 +5997,9 @@ IP,PROVIDER,DOMAIN
 161.35.84.209,TUNNELBEAR,nl.lazerpenguin.com
 161.35.84.91,TUNNELBEAR,nl.lazerpenguin.com
 161.35.85.113,TUNNELBEAR,nl.lazerpenguin.com
+161.35.85.135,TUNNELBEAR,nl.lazerpenguin.com
+161.35.85.175,TUNNELBEAR,nl.lazerpenguin.com
+161.35.85.180,TUNNELBEAR,nl.lazerpenguin.com
 161.35.86.113,TUNNELBEAR,nl.lazerpenguin.com
 161.35.86.145,TUNNELBEAR,nl.lazerpenguin.com
 161.35.86.177,TUNNELBEAR,nl.lazerpenguin.com
@@ -5989,6 +6027,7 @@ IP,PROVIDER,DOMAIN
 161.35.92.119,TUNNELBEAR,nl.lazerpenguin.com
 161.35.92.145,TUNNELBEAR,nl.lazerpenguin.com
 161.35.92.160,TUNNELBEAR,nl.lazerpenguin.com
+161.35.93.0,TUNNELBEAR,nl.lazerpenguin.com
 161.35.93.112,TUNNELBEAR,nl.lazerpenguin.com
 161.35.93.209,TUNNELBEAR,nl.lazerpenguin.com
 161.35.93.6,TUNNELBEAR,nl.lazerpenguin.com
@@ -6325,6 +6364,7 @@ IP,PROVIDER,DOMAIN
 165.22.227.132,TUNNELBEAR,ca.lazerpenguin.com
 165.22.227.190,TUNNELBEAR,ca.lazerpenguin.com
 165.22.227.203,TUNNELBEAR,ca.lazerpenguin.com
+165.22.228.81,TUNNELBEAR,ca.lazerpenguin.com
 165.22.229.127,TUNNELBEAR,ca.lazerpenguin.com
 165.22.229.149,TUNNELBEAR,ca.lazerpenguin.com
 165.22.229.45,TUNNELBEAR,ca.lazerpenguin.com
@@ -6586,6 +6626,7 @@ IP,PROVIDER,DOMAIN
 167.71.13.133,TUNNELBEAR,nl.lazerpenguin.com
 167.71.136.18,TUNNELBEAR,uk.lazerpenguin.com
 167.71.14.120,TUNNELBEAR,nl.lazerpenguin.com
+167.71.14.83,TUNNELBEAR,nl.lazerpenguin.com
 167.71.15.12,TUNNELBEAR,nl.lazerpenguin.com
 167.71.158.53,TUNNELBEAR,us.lazerpenguin.com
 167.71.164.108,TUNNELBEAR,us.lazerpenguin.com
@@ -6609,9 +6650,11 @@ IP,PROVIDER,DOMAIN
 167.71.65.159,TUNNELBEAR,nl.lazerpenguin.com
 167.71.65.38,TUNNELBEAR,nl.lazerpenguin.com
 167.71.68.15,TUNNELBEAR,nl.lazerpenguin.com
+167.71.68.185,TUNNELBEAR,nl.lazerpenguin.com
 167.71.69.113,TUNNELBEAR,nl.lazerpenguin.com
 167.71.70.146,TUNNELBEAR,nl.lazerpenguin.com
 167.71.70.170,TUNNELBEAR,nl.lazerpenguin.com
+167.71.74.242,TUNNELBEAR,nl.lazerpenguin.com
 167.71.76.181,TUNNELBEAR,nl.lazerpenguin.com
 167.71.77.251,TUNNELBEAR,nl.lazerpenguin.com
 167.71.78.37,TUNNELBEAR,nl.lazerpenguin.com
@@ -6649,6 +6692,7 @@ IP,PROVIDER,DOMAIN
 167.99.0.222,TUNNELBEAR,us.lazerpenguin.com
 167.99.109.166,TORGUARD,sf.west.usa.torguardvpnaccess.com
 167.99.128.117,TUNNELBEAR,de.lazerpenguin.com
+167.99.129.17,TUNNELBEAR,de.lazerpenguin.com
 167.99.134.56,TUNNELBEAR,de.lazerpenguin.com
 167.99.135.133,TUNNELBEAR,de.lazerpenguin.com
 167.99.137.160,TUNNELBEAR,de.lazerpenguin.com
@@ -6686,6 +6730,7 @@ IP,PROVIDER,DOMAIN
 169.38.66.21,PUREVPN,in2-tcp.ptoserver.com
 169.38.68.188,WINDSCRIBE,in.windscribe.com
 169.38.69.12,PUREVPN,in2-udp.ptoserver.com
+169.38.72.12,WINDSCRIBE,in.windscribe.com
 169.38.72.14,WINDSCRIBE,in.windscribe.com
 169.57.0.201,TUNNELBEAR,mx.lazerpenguin.com
 169.57.0.245,TUNNELBEAR,mx.lazerpenguin.com
@@ -6869,6 +6914,7 @@ IP,PROVIDER,DOMAIN
 172.111.217.2,PUREVPN,ch-ikev.ptoserver.com
 172.111.219.2,PUREVPN,fr-ikev.ptoserver.com
 172.111.219.4,PUREVPN,fr2-ovpn-udp.pointtoserver.com
+172.111.220.2,PUREVPN,fr-pptp.ptoserver.com
 172.111.227.1,PUREVPN,pl1.pointtoserver.com
 172.111.231.2,PUREVPN,us-l2tp.ptoserver.com
 172.111.233.2,PUREVPN,bs1.pointtoserver.com
@@ -9250,6 +9296,20 @@ IP,PROVIDER,DOMAIN
 184.170.242.191,PIA,us3.privacy.network
 184.170.242.192,PIA,us3.privacy.network
 184.170.242.199,PIA,us-west.privateinternetaccess.com
+184.170.242.201,PIA,us3.privacy.network
+184.170.242.202,PIA,us3.privacy.network
+184.170.242.21,PIA,us3.privacy.network
+184.170.242.211,PIA,us3.privacy.network
+184.170.242.212,PIA,us3.privacy.network
+184.170.242.22,PIA,us3.privacy.network
+184.170.242.221,PIA,us3.privacy.network
+184.170.242.222,PIA,us3.privacy.network
+184.170.242.231,PIA,us3.privacy.network
+184.170.242.232,PIA,us3.privacy.network
+184.170.242.241,PIA,us3.privacy.network
+184.170.242.242,PIA,us3.privacy.network
+184.170.242.251,PIA,us3.privacy.network
+184.170.242.252,PIA,us3.privacy.network
 184.170.243.130,NORDVPN,us5427.nordvpn.com
 184.170.243.138,NORDVPN,us5428.nordvpn.com
 184.170.243.146,NORDVPN,us5487.nordvpn.com
@@ -11875,7 +11935,10 @@ IP,PROVIDER,DOMAIN
 188.92.78.195,SURFSHARK,ru-mos.prod.surfshark.com
 188.92.78.198,SURFSHARK,ru-mos.prod.surfshark.com
 188.92.78.200,SURFSHARK,ru-mos.prod.surfshark.com
+188.92.78.203,SURFSHARK,ru-spt.prod.surfshark.com
 188.92.78.205,SURFSHARK,ru-spt.prod.surfshark.com
+188.92.78.208,SURFSHARK,ru-spt.prod.surfshark.com
+188.92.78.210,SURFSHARK,ru-spt.prod.surfshark.com
 188.95.55.13,NORDVPN,be186.nordvpn.com
 188.95.55.18,NORDVPN,be187.nordvpn.com
 188.95.55.23,NORDVPN,be188.nordvpn.com
@@ -15368,6 +15431,7 @@ IP,PROVIDER,DOMAIN
 206.189.50.90,TUNNELBEAR,de.lazerpenguin.com
 206.189.53.251,TUNNELBEAR,de.lazerpenguin.com
 206.189.53.49,TUNNELBEAR,de.lazerpenguin.com
+206.189.54.71,TUNNELBEAR,de.lazerpenguin.com
 206.189.55.161,TUNNELBEAR,de.lazerpenguin.com
 206.189.55.181,TUNNELBEAR,de.lazerpenguin.com
 206.189.55.236,TUNNELBEAR,de.lazerpenguin.com
@@ -15408,6 +15472,7 @@ IP,PROVIDER,DOMAIN
 206.81.27.166,TUNNELBEAR,de.lazerpenguin.com
 206.81.27.24,TUNNELBEAR,de.lazerpenguin.com
 206.81.27.29,TUNNELBEAR,de.lazerpenguin.com
+206.81.28.91,TUNNELBEAR,de.lazerpenguin.com
 206.81.30.206,TUNNELBEAR,de.lazerpenguin.com
 206.81.31.166,TUNNELBEAR,de.lazerpenguin.com
 206.81.31.180,TUNNELBEAR,de.lazerpenguin.com
@@ -17228,6 +17293,7 @@ IP,PROVIDER,DOMAIN
 213.152.180.4,AIRVPN,elnath.airservers.org
 213.152.186.162,AIRVPN,comae.airservers.org
 213.152.186.167,AIRVPN,luhman.airservers.org
+213.152.186.23,AIRVPN,jabbah.airservers.org
 213.152.186.39,AIRVPN,elnath.airservers.org
 213.163.64.200,CRYPTOSTORM,balancer.cstorm.is
 213.169.148.152,EXPRESSVPN,cyprus-ca-version-2.expressnetw.com
@@ -18650,6 +18716,11 @@ IP,PROVIDER,DOMAIN
 31.171.154.71,PIA,al.privacy.network
 31.171.154.72,PIA,al.privacy.network
 31.171.154.99,SURFSHARK,al-tia.prod.surfshark.com
+31.184.197.14,ANONINE,ru.anonine.net
+31.184.197.18,ANONINE,ru.anonine.net
+31.184.197.49,ANONINE,ru.anonine.net
+31.184.197.6,ANONINE,ru.anonine.net
+31.184.197.9,ANONINE,ru.anonine.net
 31.192.107.3,PUREVPN,ru-ikev.ptoserver.com
 31.204.128.18,PROTONVPN,nl-61.protonvpn.com
 31.204.128.19,PROTONVPN,nl-62.protonvpn.com
@@ -19430,6 +19501,7 @@ IP,PROVIDER,DOMAIN
 37.230.131.2,PUREVPN,nl-ipsec.ptoserver.com
 37.230.168.2,PUREVPN,ca-l2tp.ptoserver.com
 37.230.169.2,PUREVPN,us-ipsec.ptoserver.com
+37.230.171.252,PUREVPN,ar2-udp.ptoserver.com
 37.230.175.2,PUREVPN,usva2-ikev.ptoserver.com
 37.230.175.4,PUREVPN,usva2-tcp.ptoserver.com
 37.230.176.1,PUREVPN,it-ikev.ptoserver.com
@@ -21047,6 +21119,11 @@ IP,PROVIDER,DOMAIN
 45.35.78.194,NORDVPN,us2911.nordvpn.com
 45.35.81.2,NORDVPN,us2941.nordvpn.com
 45.35.93.146,NORDVPN,us2853.nordvpn.com
+45.41.136.2,EXPRESSVPN,uk-berkshire-2-ca-version-2.expressnetw.com
+45.41.136.44,EXPRESSVPN,uk-berkshire-2-ca-version-2.expressnetw.com
+45.41.136.49,EXPRESSVPN,uk-berkshire-2-ca-version-2.expressnetw.com
+45.41.136.54,EXPRESSVPN,uk-berkshire-2-ca-version-2.expressnetw.com
+45.41.136.7,EXPRESSVPN,uk-berkshire-2-ca-version-2.expressnetw.com
 45.41.180.28,EXPRESSVPN,usa-washingtondc-ca-version-2.expressnetw.com
 45.41.180.33,EXPRESSVPN,usa-washingtondc-ca-version-2.expressnetw.com
 45.41.180.38,EXPRESSVPN,usa-washingtondc-ca-version-2.expressnetw.com
@@ -21413,6 +21490,7 @@ IP,PROVIDER,DOMAIN
 45.74.17.2,PUREVPN,vleu-gt-ovpn-tcp.pointtoserver.com
 45.74.17.57,PUREVPN,vleu-gt.pointtoserver.com
 45.74.18.129,PUREVPN,vleu-ni-ovpn-tcp.pointtoserver.com
+45.74.18.189,PUREVPN,vlus-pa1.pointtoserver.com
 45.74.18.2,PUREVPN,vleu-hn-ovpn-tcp.pointtoserver.com
 45.74.19.129,PUREVPN,vleu-py-ovpn-tcp.pointtoserver.com
 45.74.19.2,PUREVPN,vleu-bo.pointtoserver.com
@@ -23193,6 +23271,12 @@ IP,PROVIDER,DOMAIN
 5.8.16.90,CYBERGHOSTVPN,97-1-ru.cg-dialup.net
 5.8.16.91,CYBERGHOSTVPN,87-1-ru.cg-dialup.net
 5.8.16.92,CYBERGHOSTVPN,87-1-ru.cg-dialup.net
+5.8.48.13,ANONINE,ru.anonine.net
+5.8.48.16,ANONINE,ru.anonine.net
+5.8.48.45,ANONINE,ru.anonine.net
+5.8.48.55,ANONINE,ru.anonine.net
+5.8.48.7,ANONINE,ru.anonine.net
+5.8.49.4,ANONINE,ru.anonine.net
 50.115.174.34,FROSTVPN,gw2.mci1.frostvpn.com
 50.2.184.11,NORDVPN,us6586.nordvpn.com
 50.2.250.2,ANONINE,us-ca.anonine.net
@@ -23912,6 +23996,7 @@ IP,PROVIDER,DOMAIN
 64.227.65.32,TUNNELBEAR,nl.lazerpenguin.com
 64.227.65.4,TUNNELBEAR,nl.lazerpenguin.com
 64.227.66.75,TUNNELBEAR,nl.lazerpenguin.com
+64.227.68.138,TUNNELBEAR,nl.lazerpenguin.com
 64.227.68.203,TUNNELBEAR,nl.lazerpenguin.com
 64.227.69.135,TUNNELBEAR,nl.lazerpenguin.com
 64.227.69.14,TUNNELBEAR,nl.lazerpenguin.com
@@ -24550,6 +24635,7 @@ IP,PROVIDER,DOMAIN
 68.183.196.183,TUNNELBEAR,ca.lazerpenguin.com
 68.183.197.183,TUNNELBEAR,ca.lazerpenguin.com
 68.183.199.81,TUNNELBEAR,ca.lazerpenguin.com
+68.183.200.9,TUNNELBEAR,ca.lazerpenguin.com
 68.183.201.108,TUNNELBEAR,ca.lazerpenguin.com
 68.183.201.195,TUNNELBEAR,ca.lazerpenguin.com
 68.183.204.123,TUNNELBEAR,ca.lazerpenguin.com
@@ -25620,9 +25706,16 @@ IP,PROVIDER,DOMAIN
 82.145.32.68,ANONINE,uk-ln.anonine.net
 82.145.32.69,ANONINE,uk-ln.anonine.net
 82.145.32.70,ANONINE,uk-ln.anonine.net
+82.145.56.102,IPVANISH,lhr-c01.ipvanish.com
+82.145.56.103,IPVANISH,lhr-c01.ipvanish.com
 82.145.56.104,NAMECHEAP,lhr-c01.vpn.wlvpn.com
+82.145.56.108,IPVANISH,lhr-c02.ipvanish.com
+82.145.56.109,IPVANISH,lhr-c02.ipvanish.com
 82.145.56.110,NAMECHEAP,lhr-c02.vpn.wlvpn.com
+82.145.56.114,IPVANISH,lhr-c03.ipvanish.com
+82.145.56.115,IPVANISH,lhr-c03.ipvanish.com
 82.145.56.116,NAMECHEAP,lhr-c03.vpn.wlvpn.com
+82.145.56.119,IPVANISH,lhr-c04.ipvanish.com
 82.145.56.120,NAMECHEAP,lhr-c04.vpn.wlvpn.com
 82.163.72.124,CRYPTOSTORM,balancer.cstorm.is
 82.163.72.127,CRYPTOSTORM,england.cstorm.is
@@ -27600,6 +27693,8 @@ IP,PROVIDER,DOMAIN
 91.197.234.240,NAMECHEAP,dub-c12.vpn.wlvpn.com
 91.197.234.243,IPVANISH,dub-c13.ipvanish.com
 91.197.234.244,NAMECHEAP,dub-c13.vpn.wlvpn.com
+91.197.234.247,IPVANISH,dub-c14.ipvanish.com
+91.197.234.248,NAMECHEAP,dub-c14.vpn.wlvpn.com
 91.205.187.186,PERFECTPRIVACY,oslo1.perfect-privacy.com
 91.205.230.239,HIDEMYASS,pt.hma.rocks
 91.205.230.255,HIDEMYASS,pt.hma.rocks
@@ -27922,6 +28017,7 @@ IP,PROVIDER,DOMAIN
 92.38.163.93,MULTIVPN,lu1.multi-vpn.biz
 92.38.180.63,HIDEMYASS,tr.hma.rocks
 92.38.180.76,HIDEMYASS,tr.hma.rocks
+92.38.180.86,HIDEMYASS,tr.hma.rocks
 92.51.242.25,FROSTVPN,gw1.dub1.frostvpn.com
 93.115.35.106,TORGUARD,au.torguardvpnaccess.com
 93.115.35.114,TORGUARD,au.torguardvpnaccess.com
@@ -28139,6 +28235,8 @@ IP,PROVIDER,DOMAIN
 95.174.67.250,TORGUARD,nl.torguardvpnaccess.com
 95.181.235.11,PIA,saudiarabia.privacy.network
 95.181.235.12,PIA,saudiarabia.privacy.network
+95.181.238.11,PIA,bahamas.privacy.network
+95.181.238.12,PIA,bahamas.privacy.network
 95.211.156.153,ANONINE,nl.anonine.net
 95.211.95.232,PERFECTPRIVACY,amsterdam2.perfect-privacy.com
 95.211.95.244,PERFECTPRIVACY,amsterdam3.perfect-privacy.com
